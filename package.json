@@ -16,6 +16,10 @@
     "time difference",
     "moment"
   ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/kumaravel95/phone-number-local-time.git"
+  },
   "license": "MIT",
   "dependencies": {
     "libphonenumber-js": "^1.7.52",
