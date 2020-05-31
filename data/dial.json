@@ -1,0 +1,3822 @@
+{
+    "1": [
+        {
+            "country": "Canada",
+            "ISO2": "CA",
+            "ISO3": "CAN",
+            "topLevelDomain": "ca",
+            "FIPS": "CA",
+            "E164": 1,
+            "phoneCode": 1,
+            "continent": "North America",
+            "capital": "Ottawa",
+            "tzInCapital": "America/Toronto",
+            "currency": "Dollar",
+            "languageCodes": "en-CA,fr-CA,iu"
+        },
+        {
+            "country": "United States",
+            "ISO2": "US",
+            "ISO3": "USA",
+            "topLevelDomain": "us",
+            "FIPS": "US",
+            "E164": 1,
+            "phoneCode": 1,
+            "continent": "North America",
+            "capital": "Washington",
+            "tzInCapital": "America/New_York",
+            "currency": "Dollar",
+            "languageCodes": "en-US,es-US,haw,fr"
+        }
+    ],
+    "7": [
+        {
+            "country": "Kazakhstan",
+            "ISO2": "KZ",
+            "ISO3": "KAZ",
+            "topLevelDomain": "kz",
+            "FIPS": "KZ",
+            "E164": 7,
+            "phoneCode": 7,
+            "continent": "Asia",
+            "capital": "Astana",
+            "tzInCapital": "Asia/Almaty",
+            "currency": "Tenge",
+            "languageCodes": "kk,ru"
+        },
+        {
+            "country": "Russia",
+            "ISO2": "RU",
+            "ISO3": "RUS",
+            "topLevelDomain": "ru",
+            "FIPS": "RS",
+            "E164": 7,
+            "phoneCode": 7,
+            "continent": "Europe",
+            "capital": "Moscow",
+            "tzInCapital": "Europe/Moscow",
+            "currency": "Ruble",
+            "languageCodes": "ru,tt,xal,cau,ady,kv,ce,tyv,cv,udm,tut,mns,bua,myv,mdf,chm,ba,inh,tut,kbd,krc,ava,sah,nog"
+        }
+    ],
+    "20": [
+        {
+            "country": "Egypt",
+            "ISO2": "EG",
+            "ISO3": "EGY",
+            "topLevelDomain": "eg",
+            "FIPS": "EG",
+            "E164": 20,
+            "phoneCode": 20,
+            "continent": "Africa",
+            "capital": "Cairo",
+            "tzInCapital": "Africa/Cairo",
+            "currency": "Pound",
+            "languageCodes": "ar-EG,en,fr"
+        }
+    ],
+    "27": [
+        {
+            "country": "South Africa",
+            "ISO2": "ZA",
+            "ISO3": "ZAF",
+            "topLevelDomain": "za",
+            "FIPS": "SF",
+            "E164": 27,
+            "phoneCode": 27,
+            "continent": "Africa",
+            "capital": "Pretoria",
+            "tzInCapital": "Africa/Johannesburg",
+            "currency": "Rand",
+            "languageCodes": "zu,xh,af,nso,en-ZA,tn,st,ts,ss,ve,nr"
+        }
+    ],
+    "30": [
+        {
+            "country": "Greece",
+            "ISO2": "GR",
+            "ISO3": "GRC",
+            "topLevelDomain": "gr",
+            "FIPS": "GR",
+            "E164": 30,
+            "phoneCode": 30,
+            "continent": "Europe",
+            "capital": "Athens",
+            "tzInCapital": "Europe/Athens",
+            "currency": "Euro",
+            "languageCodes": "el-GR,en,fr"
+        }
+    ],
+    "31": [
+        {
+            "country": "Netherlands",
+            "ISO2": "NL",
+            "ISO3": "NLD",
+            "topLevelDomain": "nl",
+            "FIPS": "NL",
+            "E164": 31,
+            "phoneCode": 31,
+            "continent": "Europe",
+            "capital": "Amsterdam",
+            "tzInCapital": "Europe/Amsterdam",
+            "currency": "Euro",
+            "languageCodes": "nl-NL,fy-NL"
+        }
+    ],
+    "32": [
+        {
+            "country": "Belgium",
+            "ISO2": "BE",
+            "ISO3": "BEL",
+            "topLevelDomain": "be",
+            "FIPS": "BE",
+            "E164": 32,
+            "phoneCode": 32,
+            "continent": "Europe",
+            "capital": "Brussels",
+            "tzInCapital": "Europe/Brussels",
+            "currency": "Euro",
+            "languageCodes": "nl-BE,fr-BE,de-BE"
+        }
+    ],
+    "33": [
+        {
+            "country": "France",
+            "ISO2": "FR",
+            "ISO3": "FRA",
+            "topLevelDomain": "fr",
+            "FIPS": "FR",
+            "E164": 33,
+            "phoneCode": 33,
+            "continent": "Europe",
+            "capital": "Paris",
+            "tzInCapital": "Europe/Paris",
+            "currency": "Euro",
+            "languageCodes": "fr-FR,frp,br,co,ca,eu,oc"
+        }
+    ],
+    "34": [
+        {
+            "country": "Spain",
+            "ISO2": "ES",
+            "ISO3": "ESP",
+            "topLevelDomain": "es",
+            "FIPS": "SP",
+            "E164": 34,
+            "phoneCode": 34,
+            "continent": "Europe",
+            "capital": "Madrid",
+            "tzInCapital": "Europe/Madrid",
+            "currency": "Euro",
+            "languageCodes": "es-ES,ca,gl,eu,oc"
+        }
+    ],
+    "36": [
+        {
+            "country": "Hungary",
+            "ISO2": "HU",
+            "ISO3": "HUN",
+            "topLevelDomain": "hu",
+            "FIPS": "HU",
+            "E164": 36,
+            "phoneCode": 36,
+            "continent": "Europe",
+            "capital": "Budapest",
+            "tzInCapital": "Europe/Budapest",
+            "currency": "Forint",
+            "languageCodes": "hu-HU"
+        }
+    ],
+    "39": [
+        {
+            "country": "Italy",
+            "ISO2": "IT",
+            "ISO3": "ITA",
+            "topLevelDomain": "it",
+            "FIPS": "IT",
+            "E164": 39,
+            "phoneCode": 39,
+            "continent": "Europe",
+            "capital": "Rome",
+            "tzInCapital": "Europe/Rome",
+            "currency": "Euro",
+            "languageCodes": "it-IT,de-IT,fr-IT,sc,ca,co,sl"
+        }
+    ],
+    "40": [
+        {
+            "country": "Romania",
+            "ISO2": "RO",
+            "ISO3": "ROU",
+            "topLevelDomain": "ro",
+            "FIPS": "RO",
+            "E164": 40,
+            "phoneCode": 40,
+            "continent": "Europe",
+            "capital": "Bucharest",
+            "tzInCapital": "Europe/Bucharest",
+            "currency": "Leu",
+            "languageCodes": "ro,hu,rom"
+        }
+    ],
+    "41": [
+        {
+            "country": "Switzerland",
+            "ISO2": "CH",
+            "ISO3": "CHE",
+            "topLevelDomain": "ch",
+            "FIPS": "SZ",
+            "E164": 41,
+            "phoneCode": 41,
+            "continent": "Europe",
+            "capital": "Berne",
+            "tzInCapital": "Europe/Zurich",
+            "currency": "Franc",
+            "languageCodes": "de-CH,fr-CH,it-CH,rm"
+        }
+    ],
+    "43": [
+        {
+            "country": "Austria",
+            "ISO2": "AT",
+            "ISO3": "AUT",
+            "topLevelDomain": "at",
+            "FIPS": "AU",
+            "E164": 43,
+            "phoneCode": 43,
+            "continent": "Europe",
+            "capital": "Vienna",
+            "tzInCapital": "Europe/Vienna",
+            "currency": "Euro",
+            "languageCodes": "de-AT,hr,hu,sl"
+        }
+    ],
+    "44": [
+        {
+            "country": "United Kingdom",
+            "ISO2": "GB",
+            "ISO3": "GBR",
+            "topLevelDomain": "uk",
+            "FIPS": "UK",
+            "E164": 44,
+            "phoneCode": 44,
+            "continent": "Europe",
+            "capital": "London",
+            "tzInCapital": "Europe/London",
+            "currency": "Pound",
+            "languageCodes": "en-GB,cy-GB,gd"
+        }
+    ],
+    "45": [
+        {
+            "country": "Denmark",
+            "ISO2": "DK",
+            "ISO3": "DNK",
+            "topLevelDomain": "dk",
+            "FIPS": "DA",
+            "E164": 45,
+            "phoneCode": 45,
+            "continent": "Europe",
+            "capital": "Copenhagen",
+            "tzInCapital": "Europe/Copenhagen",
+            "currency": "Krone",
+            "languageCodes": "da-DK,en,fo,de-DK"
+        }
+    ],
+    "46": [
+        {
+            "country": "Sweden",
+            "ISO2": "SE",
+            "ISO3": "SWE",
+            "topLevelDomain": "se",
+            "FIPS": "SW",
+            "E164": 46,
+            "phoneCode": 46,
+            "continent": "Europe",
+            "capital": "Stockholm",
+            "tzInCapital": "Europe/Stockholm",
+            "currency": "Krona",
+            "languageCodes": "sv-SE,se,sma,fi-SE"
+        }
+    ],
+    "47": [
+        {
+            "country": "Norway",
+            "ISO2": "NO",
+            "ISO3": "NOR",
+            "topLevelDomain": "no",
+            "FIPS": "NO",
+            "E164": 47,
+            "phoneCode": 47,
+            "continent": "Europe",
+            "capital": "Oslo",
+            "tzInCapital": "Europe/Oslo",
+            "currency": "Krone",
+            "languageCodes": "no,nb,nn,se,fi"
+        },
+        {
+            "country": "Svalbard and Jan Mayen",
+            "ISO2": "SJ",
+            "ISO3": "SJM",
+            "topLevelDomain": "sj",
+            "FIPS": "SV",
+            "E164": 47,
+            "phoneCode": 47,
+            "continent": "Europe",
+            "capital": "Longyearbyen",
+            "tzInCapital": "Arctic/Longyearbyen",
+            "currency": "Krone",
+            "languageCodes": "no,ru"
+        }
+    ],
+    "48": [
+        {
+            "country": "Poland",
+            "ISO2": "PL",
+            "ISO3": "POL",
+            "topLevelDomain": "pl",
+            "FIPS": "PL",
+            "E164": 48,
+            "phoneCode": 48,
+            "continent": "Europe",
+            "capital": "Warsaw",
+            "tzInCapital": "Europe/Warsaw",
+            "currency": "Zloty",
+            "languageCodes": "pl"
+        }
+    ],
+    "49": [
+        {
+            "country": "Germany",
+            "ISO2": "DE",
+            "ISO3": "DEU",
+            "topLevelDomain": "de",
+            "FIPS": "GM",
+            "E164": 49,
+            "phoneCode": 49,
+            "continent": "Europe",
+            "capital": "Berlin",
+            "tzInCapital": "Europe/Berlin",
+            "currency": "Euro",
+            "languageCodes": "de"
+        }
+    ],
+    "51": [
+        {
+            "country": "Peru",
+            "ISO2": "PE",
+            "ISO3": "PER",
+            "topLevelDomain": "pe",
+            "FIPS": "PE",
+            "E164": 51,
+            "phoneCode": 51,
+            "continent": "South America",
+            "capital": "Lima",
+            "tzInCapital": "America/Lima",
+            "currency": "Sol",
+            "languageCodes": "es-PE,qu,ay"
+        }
+    ],
+    "52": [
+        {
+            "country": "Mexico",
+            "ISO2": "MX",
+            "ISO3": "MEX",
+            "topLevelDomain": "mx",
+            "FIPS": "MX",
+            "E164": 52,
+            "phoneCode": 52,
+            "continent": "North America",
+            "capital": "Mexico City",
+            "tzInCapital": "America/Mexico_City",
+            "currency": "Peso",
+            "languageCodes": "es-MX"
+        }
+    ],
+    "53": [
+        {
+            "country": "Cuba",
+            "ISO2": "CU",
+            "ISO3": "CUB",
+            "topLevelDomain": "cu",
+            "FIPS": "CU",
+            "E164": 53,
+            "phoneCode": 53,
+            "continent": "North America",
+            "capital": "Havana",
+            "tzInCapital": "America/Havana",
+            "currency": "Peso",
+            "languageCodes": "es-CU"
+        }
+    ],
+    "54": [
+        {
+            "country": "Argentina",
+            "ISO2": "AR",
+            "ISO3": "ARG",
+            "topLevelDomain": "ar",
+            "FIPS": "AR",
+            "E164": 54,
+            "phoneCode": 54,
+            "continent": "South America",
+            "capital": "Buenos Aires",
+            "tzInCapital": "America/Argentina/Buenos_Aires",
+            "currency": "Peso",
+            "languageCodes": "es-AR,en,it,de,fr,gn"
+        }
+    ],
+    "55": [
+        {
+            "country": "Brazil",
+            "ISO2": "BR",
+            "ISO3": "BRA",
+            "topLevelDomain": "br",
+            "FIPS": "BR",
+            "E164": 55,
+            "phoneCode": 55,
+            "continent": "South America",
+            "capital": "Brasilia",
+            "tzInCapital": "America/Sao_Paulo",
+            "currency": "Real",
+            "languageCodes": "pt-BR,es,en,fr"
+        }
+    ],
+    "56": [
+        {
+            "country": "Chile",
+            "ISO2": "CL",
+            "ISO3": "CHL",
+            "topLevelDomain": "cl",
+            "FIPS": "CI",
+            "E164": 56,
+            "phoneCode": 56,
+            "continent": "South America",
+            "capital": "Santiago",
+            "tzInCapital": "America/Santiago",
+            "currency": "Peso",
+            "languageCodes": "es-CL"
+        }
+    ],
+    "57": [
+        {
+            "country": "Colombia",
+            "ISO2": "CO",
+            "ISO3": "COL",
+            "topLevelDomain": "co",
+            "FIPS": "CO",
+            "E164": 57,
+            "phoneCode": 57,
+            "continent": "South America",
+            "capital": "Bogota",
+            "tzInCapital": "America/Bogota",
+            "currency": "Peso",
+            "languageCodes": "es-CO"
+        }
+    ],
+    "58": [
+        {
+            "country": "Venezuela",
+            "ISO2": "VE",
+            "ISO3": "VEN",
+            "topLevelDomain": "ve",
+            "FIPS": "VE",
+            "E164": 58,
+            "phoneCode": 58,
+            "continent": "South America",
+            "capital": "Caracas",
+            "tzInCapital": "America/Caracas",
+            "currency": "Bolivar",
+            "languageCodes": "es-VE"
+        }
+    ],
+    "60": [
+        {
+            "country": "Malaysia",
+            "ISO2": "MY",
+            "ISO3": "MYS",
+            "topLevelDomain": "my",
+            "FIPS": "MY",
+            "E164": 60,
+            "phoneCode": 60,
+            "continent": "Asia",
+            "capital": "Kuala Lumpur",
+            "tzInCapital": "Asia/Kuala_Lumpur",
+            "currency": "Ringgit",
+            "languageCodes": "ms-MY,en,zh,ta,te,ml,pa,th"
+        }
+    ],
+    "61": [
+        {
+            "country": "Australia",
+            "ISO2": "AU",
+            "ISO3": "AUS",
+            "topLevelDomain": "au",
+            "FIPS": "AS",
+            "E164": 61,
+            "phoneCode": 61,
+            "continent": "Oceania",
+            "capital": "Canberra",
+            "tzInCapital": "Australia/Sydney",
+            "currency": "Dollar",
+            "languageCodes": "en-AU"
+        },
+        {
+            "country": "Christmas Island",
+            "ISO2": "CX",
+            "ISO3": "CXR",
+            "topLevelDomain": "cx",
+            "FIPS": "KT",
+            "E164": 61,
+            "phoneCode": 61,
+            "continent": "Asia",
+            "capital": "Flying Fish Cove",
+            "tzInCapital": "Indian/Christmas",
+            "currency": "Dollar",
+            "languageCodes": "en,zh,ms-CC"
+        },
+        {
+            "country": "Cocos Islands",
+            "ISO2": "CC",
+            "ISO3": "CCK",
+            "topLevelDomain": "cc",
+            "FIPS": "CK",
+            "E164": 61,
+            "phoneCode": 61,
+            "continent": "Asia",
+            "capital": "West Island",
+            "tzInCapital": "Indian/Cocos",
+            "currency": "Dollar",
+            "languageCodes": "ms-CC,en"
+        }
+    ],
+    "62": [
+        {
+            "country": "Indonesia",
+            "ISO2": "ID",
+            "ISO3": "IDN",
+            "topLevelDomain": "id",
+            "FIPS": "ID",
+            "E164": 62,
+            "phoneCode": 62,
+            "continent": "Asia",
+            "capital": "Jakarta",
+            "tzInCapital": "Asia/Jakarta",
+            "currency": "Rupiah",
+            "languageCodes": "id,en,nl,jv"
+        }
+    ],
+    "63": [
+        {
+            "country": "Philippines",
+            "ISO2": "PH",
+            "ISO3": "PHL",
+            "topLevelDomain": "ph",
+            "FIPS": "RP",
+            "E164": 63,
+            "phoneCode": 63,
+            "continent": "Asia",
+            "capital": "Manila",
+            "tzInCapital": "Asia/Manila",
+            "currency": "Peso",
+            "languageCodes": "tl,en-PH,fil"
+        }
+    ],
+    "64": [
+        {
+            "country": "New Zealand",
+            "ISO2": "NZ",
+            "ISO3": "NZL",
+            "topLevelDomain": "nz",
+            "FIPS": "NZ",
+            "E164": 64,
+            "phoneCode": 64,
+            "continent": "Oceania",
+            "capital": "Wellington",
+            "tzInCapital": "Pacific/Auckland",
+            "currency": "Dollar",
+            "languageCodes": "en-NZ,mi"
+        },
+        {
+            "country": "Pitcairn",
+            "ISO2": "PN",
+            "ISO3": "PCN",
+            "topLevelDomain": "pn",
+            "FIPS": "PC",
+            "E164": 64,
+            "phoneCode": 64,
+            "continent": "Oceania",
+            "capital": "Adamstown",
+            "tzInCapital": "Pacific/Pitcairn",
+            "currency": "Dollar",
+            "languageCodes": "en-PN"
+        }
+    ],
+    "65": [
+        {
+            "country": "Singapore",
+            "ISO2": "SG",
+            "ISO3": "SGP",
+            "topLevelDomain": "sg",
+            "FIPS": "SN",
+            "E164": 65,
+            "phoneCode": 65,
+            "continent": "Asia",
+            "capital": "Singapore",
+            "tzInCapital": "Asia/Singapore",
+            "currency": "Dollar",
+            "languageCodes": "cmn,en-SG,ms-SG,ta-SG,zh-SG"
+        }
+    ],
+    "66": [
+        {
+            "country": "Thailand",
+            "ISO2": "TH",
+            "ISO3": "THA",
+            "topLevelDomain": "th",
+            "FIPS": "TH",
+            "E164": 66,
+            "phoneCode": 66,
+            "continent": "Asia",
+            "capital": "Bangkok",
+            "tzInCapital": "Asia/Bangkok",
+            "currency": "Baht",
+            "languageCodes": "th,en"
+        }
+    ],
+    "81": [
+        {
+            "country": "Japan",
+            "ISO2": "JP",
+            "ISO3": "JPN",
+            "topLevelDomain": "jp",
+            "FIPS": "JA",
+            "E164": 81,
+            "phoneCode": 81,
+            "continent": "Asia",
+            "capital": "Tokyo",
+            "tzInCapital": "Asia/Tokyo",
+            "currency": "Yen",
+            "languageCodes": "ja"
+        }
+    ],
+    "82": [
+        {
+            "country": "South Korea",
+            "ISO2": "KR",
+            "ISO3": "KOR",
+            "topLevelDomain": "kr",
+            "FIPS": "KS",
+            "E164": 82,
+            "phoneCode": 82,
+            "continent": "Asia",
+            "capital": "Seoul",
+            "tzInCapital": "Asia/Seoul",
+            "currency": "Won",
+            "languageCodes": "ko-KR,en"
+        }
+    ],
+    "84": [
+        {
+            "country": "Vietnam",
+            "ISO2": "VN",
+            "ISO3": "VNM",
+            "topLevelDomain": "vn",
+            "FIPS": "VM",
+            "E164": 84,
+            "phoneCode": 84,
+            "continent": "Asia",
+            "capital": "Hanoi",
+            "tzInCapital": "Asia/Ho_Chi_Minh",
+            "currency": "Dong",
+            "languageCodes": "vi,en,fr,zh,km"
+        }
+    ],
+    "86": [
+        {
+            "country": "China",
+            "ISO2": "CN",
+            "ISO3": "CHN",
+            "topLevelDomain": "cn",
+            "FIPS": "CH",
+            "E164": 86,
+            "phoneCode": 86,
+            "continent": "Asia",
+            "capital": "Beijing",
+            "tzInCapital": "Asia/Shanghai",
+            "currency": "Yuan Renminbi",
+            "languageCodes": "zh-CN,yue,wuu,dta,ug,za"
+        }
+    ],
+    "90": [
+        {
+            "country": "Turkey",
+            "ISO2": "TR",
+            "ISO3": "TUR",
+            "topLevelDomain": "tr",
+            "FIPS": "TU",
+            "E164": 90,
+            "phoneCode": 90,
+            "continent": "Asia",
+            "capital": "Ankara",
+            "tzInCapital": "Europe/Istanbul",
+            "currency": "Lira",
+            "languageCodes": "tr-TR,ku,diq,az,av"
+        }
+    ],
+    "91": [
+        {
+            "country": "India",
+            "ISO2": "IN",
+            "ISO3": "IND",
+            "topLevelDomain": "in",
+            "FIPS": "IN",
+            "E164": 91,
+            "phoneCode": 91,
+            "continent": "Asia",
+            "capital": "New Delhi",
+            "tzInCapital": "Asia/Kolkata",
+            "currency": "Rupee",
+            "languageCodes": "en-IN,hi,bn,te,mr,ta,ur,gu,kn,ml,or,pa,as,bh,sat,ks,ne,sd,kok,doi,mni,sit,sa,fr,lus,inc"
+        }
+    ],
+    "92": [
+        {
+            "country": "Pakistan",
+            "ISO2": "PK",
+            "ISO3": "PAK",
+            "topLevelDomain": "pk",
+            "FIPS": "PK",
+            "E164": 92,
+            "phoneCode": 92,
+            "continent": "Asia",
+            "capital": "Islamabad",
+            "tzInCapital": "Asia/Karachi",
+            "currency": "Rupee",
+            "languageCodes": "ur-PK,en-PK,pa,sd,ps,brh"
+        }
+    ],
+    "93": [
+        {
+            "country": "Afghanistan",
+            "ISO2": "AF",
+            "ISO3": "AFG",
+            "topLevelDomain": "af",
+            "FIPS": "AF",
+            "E164": 93,
+            "phoneCode": 93,
+            "continent": "Asia",
+            "capital": "Kabul",
+            "tzInCapital": "Asia/Kabul",
+            "currency": "Afghani",
+            "languageCodes": "fa-AF,ps,uz-AF,tk"
+        }
+    ],
+    "94": [
+        {
+            "country": "Sri Lanka",
+            "ISO2": "LK",
+            "ISO3": "LKA",
+            "topLevelDomain": "lk",
+            "FIPS": "CE",
+            "E164": 94,
+            "phoneCode": 94,
+            "continent": "Asia",
+            "capital": "Colombo",
+            "tzInCapital": "Asia/Colombo",
+            "currency": "Rupee",
+            "languageCodes": "si,ta,en"
+        }
+    ],
+    "95": [
+        {
+            "country": "Myanmar",
+            "ISO2": "MM",
+            "ISO3": "MMR",
+            "topLevelDomain": "mm",
+            "FIPS": "BM",
+            "E164": 95,
+            "phoneCode": 95,
+            "continent": "Asia",
+            "capital": "Nay Pyi Taw",
+            "tzInCapital": "Asia/Rangoon",
+            "currency": "Kyat",
+            "languageCodes": "my"
+        }
+    ],
+    "98": [
+        {
+            "country": "Iran",
+            "ISO2": "IR",
+            "ISO3": "IRN",
+            "topLevelDomain": "ir",
+            "FIPS": "IR",
+            "E164": 98,
+            "phoneCode": 98,
+            "continent": "Asia",
+            "capital": "Tehran",
+            "tzInCapital": "Asia/Tehran",
+            "currency": "Rial",
+            "languageCodes": "fa-IR,ku"
+        }
+    ],
+    "211": [
+        {
+            "country": "South Sudan",
+            "ISO2": "SS",
+            "ISO3": "SSD",
+            "topLevelDomain": "ss",
+            "FIPS": "OD",
+            "E164": 211,
+            "phoneCode": 211,
+            "continent": "Africa",
+            "capital": "Juba",
+            "tzInCapital": "Africa/Juba",
+            "currency": "Pound",
+            "languageCodes": "en"
+        }
+    ],
+    "212": [
+        {
+            "country": "Morocco",
+            "ISO2": "MA",
+            "ISO3": "MAR",
+            "topLevelDomain": "ma",
+            "FIPS": "MO",
+            "E164": 212,
+            "phoneCode": 212,
+            "continent": "Africa",
+            "capital": "Rabat",
+            "tzInCapital": "Africa/Casablanca",
+            "currency": "Dirham",
+            "languageCodes": "ar-MA,fr"
+        },
+        {
+            "country": "Western Sahara",
+            "ISO2": "EH",
+            "ISO3": "ESH",
+            "topLevelDomain": "eh",
+            "FIPS": "WI",
+            "E164": 212,
+            "phoneCode": 212,
+            "continent": "Africa",
+            "capital": "El-Aaiun",
+            "tzInCapital": "Africa/El_Aaiun",
+            "currency": "Dirham",
+            "languageCodes": "ar,mey"
+        }
+    ],
+    "213": [
+        {
+            "country": "Algeria",
+            "ISO2": "DZ",
+            "ISO3": "DZA",
+            "topLevelDomain": "dz",
+            "FIPS": "AG",
+            "E164": 213,
+            "phoneCode": 213,
+            "continent": "Africa",
+            "capital": "Algiers",
+            "tzInCapital": "Africa/Algiers",
+            "currency": "Dinar",
+            "languageCodes": "ar-DZ"
+        }
+    ],
+    "216": [
+        {
+            "country": "Tunisia",
+            "ISO2": "TN",
+            "ISO3": "TUN",
+            "topLevelDomain": "tn",
+            "FIPS": "TS",
+            "E164": 216,
+            "phoneCode": 216,
+            "continent": "Africa",
+            "capital": "Tunis",
+            "tzInCapital": "Africa/Tunis",
+            "currency": "Dinar",
+            "languageCodes": "ar-TN,fr"
+        }
+    ],
+    "218": [
+        {
+            "country": "Libya",
+            "ISO2": "LY",
+            "ISO3": "LBY",
+            "topLevelDomain": "ly",
+            "FIPS": "LY",
+            "E164": 218,
+            "phoneCode": 218,
+            "continent": "Africa",
+            "capital": "Tripolis",
+            "tzInCapital": "Africa/Tripoli",
+            "currency": "Dinar",
+            "languageCodes": "ar-LY,it,en"
+        }
+    ],
+    "220": [
+        {
+            "country": "Gambia",
+            "ISO2": "GM",
+            "ISO3": "GMB",
+            "topLevelDomain": "gm",
+            "FIPS": "GA",
+            "E164": 220,
+            "phoneCode": 220,
+            "continent": "Africa",
+            "capital": "Banjul",
+            "tzInCapital": "Africa/Banjul",
+            "currency": "Dalasi",
+            "languageCodes": "en-GM,mnk,wof,wo,ff"
+        }
+    ],
+    "221": [
+        {
+            "country": "Senegal",
+            "ISO2": "SN",
+            "ISO3": "SEN",
+            "topLevelDomain": "sn",
+            "FIPS": "SG",
+            "E164": 221,
+            "phoneCode": 221,
+            "continent": "Africa",
+            "capital": "Dakar",
+            "tzInCapital": "Africa/Dakar",
+            "currency": "Franc",
+            "languageCodes": "fr-SN,wo,fuc,mnk"
+        }
+    ],
+    "222": [
+        {
+            "country": "Mauritania",
+            "ISO2": "MR",
+            "ISO3": "MRT",
+            "topLevelDomain": "mr",
+            "FIPS": "MR",
+            "E164": 222,
+            "phoneCode": 222,
+            "continent": "Africa",
+            "capital": "Nouakchott",
+            "tzInCapital": "Africa/Nouakchott",
+            "currency": "Ouguiya",
+            "languageCodes": "ar-MR,fuc,snk,fr,mey,wo"
+        }
+    ],
+    "223": [
+        {
+            "country": "Mali",
+            "ISO2": "ML",
+            "ISO3": "MLI",
+            "topLevelDomain": "ml",
+            "FIPS": "ML",
+            "E164": 223,
+            "phoneCode": 223,
+            "continent": "Africa",
+            "capital": "Bamako",
+            "tzInCapital": "Africa/Bamako",
+            "currency": "Franc",
+            "languageCodes": "fr-ML,bm"
+        }
+    ],
+    "224": [
+        {
+            "country": "Guinea",
+            "ISO2": "GN",
+            "ISO3": "GIN",
+            "topLevelDomain": "gn",
+            "FIPS": "GV",
+            "E164": 224,
+            "phoneCode": 224,
+            "continent": "Africa",
+            "capital": "Conakry",
+            "tzInCapital": "Africa/Conakry",
+            "currency": "Franc",
+            "languageCodes": "fr-GN"
+        }
+    ],
+    "225": [
+        {
+            "country": "Ivory Coast",
+            "ISO2": "CI",
+            "ISO3": "CIV",
+            "topLevelDomain": "ci",
+            "FIPS": "IV",
+            "E164": 225,
+            "phoneCode": 225,
+            "continent": "Africa",
+            "capital": "Yamoussoukro",
+            "tzInCapital": "Africa/Abidjan",
+            "currency": "Franc",
+            "languageCodes": "fr-CI"
+        }
+    ],
+    "226": [
+        {
+            "country": "Burkina Faso",
+            "ISO2": "BF",
+            "ISO3": "BFA",
+            "topLevelDomain": "bf",
+            "FIPS": "UV",
+            "E164": 226,
+            "phoneCode": 226,
+            "continent": "Africa",
+            "capital": "Ouagadougou",
+            "tzInCapital": "Africa/Ouagadougou",
+            "currency": "Franc",
+            "languageCodes": "fr-BF"
+        }
+    ],
+    "227": [
+        {
+            "country": "Niger",
+            "ISO2": "NE",
+            "ISO3": "NER",
+            "topLevelDomain": "ne",
+            "FIPS": "NG",
+            "E164": 227,
+            "phoneCode": 227,
+            "continent": "Africa",
+            "capital": "Niamey",
+            "tzInCapital": "Africa/Niamey",
+            "currency": "Franc",
+            "languageCodes": "fr-NE,ha,kr,dje"
+        }
+    ],
+    "228": [
+        {
+            "country": "Togo",
+            "ISO2": "TG",
+            "ISO3": "TGO",
+            "topLevelDomain": "tg",
+            "FIPS": "TO",
+            "E164": 228,
+            "phoneCode": 228,
+            "continent": "Africa",
+            "capital": "Lome",
+            "tzInCapital": "Africa/Lome",
+            "currency": "Franc",
+            "languageCodes": "fr-TG,ee,hna,kbp,dag,ha"
+        }
+    ],
+    "229": [
+        {
+            "country": "Benin",
+            "ISO2": "BJ",
+            "ISO3": "BEN",
+            "topLevelDomain": "bj",
+            "FIPS": "BN",
+            "E164": 229,
+            "phoneCode": 229,
+            "continent": "Africa",
+            "capital": "Porto-Novo",
+            "tzInCapital": "Africa/Porto-Novo",
+            "currency": "Franc",
+            "languageCodes": "fr-BJ"
+        }
+    ],
+    "230": [
+        {
+            "country": "Mauritius",
+            "ISO2": "MU",
+            "ISO3": "MUS",
+            "topLevelDomain": "mu",
+            "FIPS": "MP",
+            "E164": 230,
+            "phoneCode": 230,
+            "continent": "Africa",
+            "capital": "Port Louis",
+            "tzInCapital": "Indian/Mauritius",
+            "currency": "Rupee",
+            "languageCodes": "en-MU,bho,fr"
+        }
+    ],
+    "231": [
+        {
+            "country": "Liberia",
+            "ISO2": "LR",
+            "ISO3": "LBR",
+            "topLevelDomain": "lr",
+            "FIPS": "LI",
+            "E164": 231,
+            "phoneCode": 231,
+            "continent": "Africa",
+            "capital": "Monrovia",
+            "tzInCapital": "Africa/Monrovia",
+            "currency": "Dollar",
+            "languageCodes": "en-LR"
+        }
+    ],
+    "232": [
+        {
+            "country": "Sierra Leone",
+            "ISO2": "SL",
+            "ISO3": "SLE",
+            "topLevelDomain": "sl",
+            "FIPS": "SL",
+            "E164": 232,
+            "phoneCode": 232,
+            "continent": "Africa",
+            "capital": "Freetown",
+            "tzInCapital": "Africa/Freetown",
+            "currency": "Leone",
+            "languageCodes": "en-SL,men,tem"
+        }
+    ],
+    "233": [
+        {
+            "country": "Ghana",
+            "ISO2": "GH",
+            "ISO3": "GHA",
+            "topLevelDomain": "gh",
+            "FIPS": "GH",
+            "E164": 233,
+            "phoneCode": 233,
+            "continent": "Africa",
+            "capital": "Accra",
+            "tzInCapital": "Africa/Accra",
+            "currency": "Cedi",
+            "languageCodes": "en-GH,ak,ee,tw"
+        }
+    ],
+    "234": [
+        {
+            "country": "Nigeria",
+            "ISO2": "NG",
+            "ISO3": "NGA",
+            "topLevelDomain": "ng",
+            "FIPS": "NI",
+            "E164": 234,
+            "phoneCode": 234,
+            "continent": "Africa",
+            "capital": "Abuja",
+            "tzInCapital": "Africa/Lagos",
+            "currency": "Naira",
+            "languageCodes": "en-NG,ha,yo,ig,ff"
+        }
+    ],
+    "235": [
+        {
+            "country": "Chad",
+            "ISO2": "TD",
+            "ISO3": "TCD",
+            "topLevelDomain": "td",
+            "FIPS": "CD",
+            "E164": 235,
+            "phoneCode": 235,
+            "continent": "Africa",
+            "capital": "N'Djamena",
+            "tzInCapital": "Africa/Ndjamena",
+            "currency": "Franc",
+            "languageCodes": "fr-TD,ar-TD,sre"
+        }
+    ],
+    "236": [
+        {
+            "country": "Central African Republic",
+            "ISO2": "CF",
+            "ISO3": "CAF",
+            "topLevelDomain": "cf",
+            "FIPS": "CT",
+            "E164": 236,
+            "phoneCode": 236,
+            "continent": "Africa",
+            "capital": "Bangui",
+            "tzInCapital": "Africa/Bangui",
+            "currency": "Franc",
+            "languageCodes": "fr-CF,sg,ln,kg"
+        }
+    ],
+    "237": [
+        {
+            "country": "Cameroon",
+            "ISO2": "CM",
+            "ISO3": "CMR",
+            "topLevelDomain": "cm",
+            "FIPS": "CM",
+            "E164": 237,
+            "phoneCode": 237,
+            "continent": "Africa",
+            "capital": "Yaounde",
+            "tzInCapital": "Africa/Douala",
+            "currency": "Franc",
+            "languageCodes": "en-CM,fr-CM"
+        }
+    ],
+    "238": [
+        {
+            "country": "Cape Verde",
+            "ISO2": "CV",
+            "ISO3": "CPV",
+            "topLevelDomain": "cv",
+            "FIPS": "CV",
+            "E164": 238,
+            "phoneCode": 238,
+            "continent": "Africa",
+            "capital": "Praia",
+            "tzInCapital": "Atlantic/Cape_Verde",
+            "currency": "Escudo",
+            "languageCodes": "pt-CV"
+        }
+    ],
+    "239": [
+        {
+            "country": "Sao Tome and Principe",
+            "ISO2": "ST",
+            "ISO3": "STP",
+            "topLevelDomain": "st",
+            "FIPS": "TP",
+            "E164": 239,
+            "phoneCode": 239,
+            "continent": "Africa",
+            "capital": "Sao Tome",
+            "tzInCapital": "Africa/Sao_Tome",
+            "currency": "Dobra",
+            "languageCodes": "pt-ST"
+        }
+    ],
+    "240": [
+        {
+            "country": "Equatorial Guinea",
+            "ISO2": "GQ",
+            "ISO3": "GNQ",
+            "topLevelDomain": "gq",
+            "FIPS": "EK",
+            "E164": 240,
+            "phoneCode": 240,
+            "continent": "Africa",
+            "capital": "Malabo",
+            "tzInCapital": "Africa/Malabo",
+            "currency": "Franc",
+            "languageCodes": "es-GQ,fr"
+        }
+    ],
+    "241": [
+        {
+            "country": "Gabon",
+            "ISO2": "GA",
+            "ISO3": "GAB",
+            "topLevelDomain": "ga",
+            "FIPS": "GB",
+            "E164": 241,
+            "phoneCode": 241,
+            "continent": "Africa",
+            "capital": "Libreville",
+            "tzInCapital": "Africa/Libreville",
+            "currency": "Franc",
+            "languageCodes": "fr-GA"
+        }
+    ],
+    "242": [
+        {
+            "country": "Republic of the Congo",
+            "ISO2": "CG",
+            "ISO3": "COG",
+            "topLevelDomain": "cg",
+            "FIPS": "CF",
+            "E164": 242,
+            "phoneCode": 242,
+            "continent": "Africa",
+            "capital": "Brazzaville",
+            "tzInCapital": "Africa/Brazzaville",
+            "currency": "Franc",
+            "languageCodes": "fr-CG,kg,ln-CG"
+        }
+    ],
+    "243": [
+        {
+            "country": "Democratic Republic of the Congo",
+            "ISO2": "CD",
+            "ISO3": "COD",
+            "topLevelDomain": "cd",
+            "FIPS": "CG",
+            "E164": 243,
+            "phoneCode": 243,
+            "continent": "Africa",
+            "capital": "Kinshasa",
+            "tzInCapital": "Africa/Kinshasa",
+            "currency": "Franc",
+            "languageCodes": "fr-CD,ln,kg"
+        }
+    ],
+    "244": [
+        {
+            "country": "Angola",
+            "ISO2": "AO",
+            "ISO3": "AGO",
+            "topLevelDomain": "ao",
+            "FIPS": "AO",
+            "E164": 244,
+            "phoneCode": 244,
+            "continent": "Africa",
+            "capital": "Luanda",
+            "tzInCapital": "Africa/Luanda",
+            "currency": "Kwanza",
+            "languageCodes": "pt-AO"
+        }
+    ],
+    "245": [
+        {
+            "country": "Guinea-Bissau",
+            "ISO2": "GW",
+            "ISO3": "GNB",
+            "topLevelDomain": "gw",
+            "FIPS": "PU",
+            "E164": 245,
+            "phoneCode": 245,
+            "continent": "Africa",
+            "capital": "Bissau",
+            "tzInCapital": "Africa/Bissau",
+            "currency": "Franc",
+            "languageCodes": "pt-GW,pov"
+        }
+    ],
+    "246": [
+        {
+            "country": "British Indian Ocean Territory",
+            "ISO2": "IO",
+            "ISO3": "IOT",
+            "topLevelDomain": "io",
+            "FIPS": "IO",
+            "E164": 246,
+            "phoneCode": 246,
+            "continent": "Asia",
+            "capital": "Diego Garcia",
+            "tzInCapital": "Indian/Chagos",
+            "currency": "Dollar",
+            "languageCodes": "en-IO"
+        }
+    ],
+    "248": [
+        {
+            "country": "Seychelles",
+            "ISO2": "SC",
+            "ISO3": "SYC",
+            "topLevelDomain": "sc",
+            "FIPS": "SE",
+            "E164": 248,
+            "phoneCode": 248,
+            "continent": "Africa",
+            "capital": "Victoria",
+            "tzInCapital": "Indian/Mahe",
+            "currency": "Rupee",
+            "languageCodes": "en-SC,fr-SC"
+        }
+    ],
+    "249": [
+        {
+            "country": "Sudan",
+            "ISO2": "SD",
+            "ISO3": "SDN",
+            "topLevelDomain": "sd",
+            "FIPS": "SU",
+            "E164": 249,
+            "phoneCode": 249,
+            "continent": "Africa",
+            "capital": "Khartoum",
+            "tzInCapital": "Africa/Khartoum",
+            "currency": "Pound",
+            "languageCodes": "ar-SD,en,fia"
+        }
+    ],
+    "250": [
+        {
+            "country": "Rwanda",
+            "ISO2": "RW",
+            "ISO3": "RWA",
+            "topLevelDomain": "rw",
+            "FIPS": "RW",
+            "E164": 250,
+            "phoneCode": 250,
+            "continent": "Africa",
+            "capital": "Kigali",
+            "tzInCapital": "Africa/Kigali",
+            "currency": "Franc",
+            "languageCodes": "rw,en-RW,fr-RW,sw"
+        }
+    ],
+    "251": [
+        {
+            "country": "Ethiopia",
+            "ISO2": "ET",
+            "ISO3": "ETH",
+            "topLevelDomain": "et",
+            "FIPS": "ET",
+            "E164": 251,
+            "phoneCode": 251,
+            "continent": "Africa",
+            "capital": "Addis Ababa",
+            "tzInCapital": "Africa/Addis_Ababa",
+            "currency": "Birr",
+            "languageCodes": "am,en-ET,om-ET,ti-ET,so-ET,sid"
+        }
+    ],
+    "252": [
+        {
+            "country": "Somalia",
+            "ISO2": "SO",
+            "ISO3": "SOM",
+            "topLevelDomain": "so",
+            "FIPS": "SO",
+            "E164": 252,
+            "phoneCode": 252,
+            "continent": "Africa",
+            "capital": "Mogadishu",
+            "tzInCapital": "Africa/Mogadishu",
+            "currency": "Shilling",
+            "languageCodes": "so-SO,ar-SO,it,en-SO"
+        }
+    ],
+    "253": [
+        {
+            "country": "Djibouti",
+            "ISO2": "DJ",
+            "ISO3": "DJI",
+            "topLevelDomain": "dj",
+            "FIPS": "DJ",
+            "E164": 253,
+            "phoneCode": 253,
+            "continent": "Africa",
+            "capital": "Djibouti",
+            "tzInCapital": "Africa/Djibouti",
+            "currency": "Franc",
+            "languageCodes": "fr-DJ,ar,so-DJ,aa"
+        }
+    ],
+    "254": [
+        {
+            "country": "Kenya",
+            "ISO2": "KE",
+            "ISO3": "KEN",
+            "topLevelDomain": "ke",
+            "FIPS": "KE",
+            "E164": 254,
+            "phoneCode": 254,
+            "continent": "Africa",
+            "capital": "Nairobi",
+            "tzInCapital": "Africa/Nairobi",
+            "currency": "Shilling",
+            "languageCodes": "en-KE,sw-KE"
+        }
+    ],
+    "255": [
+        {
+            "country": "Tanzania",
+            "ISO2": "TZ",
+            "ISO3": "TZA",
+            "topLevelDomain": "tz",
+            "FIPS": "TZ",
+            "E164": 255,
+            "phoneCode": 255,
+            "continent": "Africa",
+            "capital": "Dodoma",
+            "tzInCapital": "Africa/Dar_es_Salaam",
+            "currency": "Shilling",
+            "languageCodes": "sw-TZ,en,ar"
+        }
+    ],
+    "256": [
+        {
+            "country": "Uganda",
+            "ISO2": "UG",
+            "ISO3": "UGA",
+            "topLevelDomain": "ug",
+            "FIPS": "UG",
+            "E164": 256,
+            "phoneCode": 256,
+            "continent": "Africa",
+            "capital": "Kampala",
+            "tzInCapital": "Africa/Kampala",
+            "currency": "Shilling",
+            "languageCodes": "en-UG,lg,sw,ar"
+        }
+    ],
+    "257": [
+        {
+            "country": "Burundi",
+            "ISO2": "BI",
+            "ISO3": "BDI",
+            "topLevelDomain": "bi",
+            "FIPS": "BY",
+            "E164": 257,
+            "phoneCode": 257,
+            "continent": "Africa",
+            "capital": "Bujumbura",
+            "tzInCapital": "Africa/Bujumbura",
+            "currency": "Franc",
+            "languageCodes": "fr-BI,rn"
+        }
+    ],
+    "258": [
+        {
+            "country": "Mozambique",
+            "ISO2": "MZ",
+            "ISO3": "MOZ",
+            "topLevelDomain": "mz",
+            "FIPS": "MZ",
+            "E164": 258,
+            "phoneCode": 258,
+            "continent": "Africa",
+            "capital": "Maputo",
+            "tzInCapital": "Africa/Maputo",
+            "currency": "Metical",
+            "languageCodes": "pt-MZ,vmw"
+        }
+    ],
+    "260": [
+        {
+            "country": "Zambia",
+            "ISO2": "ZM",
+            "ISO3": "ZMB",
+            "topLevelDomain": "zm",
+            "FIPS": "ZA",
+            "E164": 260,
+            "phoneCode": 260,
+            "continent": "Africa",
+            "capital": "Lusaka",
+            "tzInCapital": "Africa/Lusaka",
+            "currency": "Kwacha",
+            "languageCodes": "en-ZM,bem,loz,lun,lue,ny,toi"
+        }
+    ],
+    "261": [
+        {
+            "country": "Madagascar",
+            "ISO2": "MG",
+            "ISO3": "MDG",
+            "topLevelDomain": "mg",
+            "FIPS": "MA",
+            "E164": 261,
+            "phoneCode": 261,
+            "continent": "Africa",
+            "capital": "Antananarivo",
+            "tzInCapital": "Indian/Antananarivo",
+            "currency": "Ariary",
+            "languageCodes": "fr-MG,mg"
+        }
+    ],
+    "262": [
+        {
+            "country": "Mayotte",
+            "ISO2": "YT",
+            "ISO3": "MYT",
+            "topLevelDomain": "yt",
+            "FIPS": "MF",
+            "E164": 262,
+            "phoneCode": 262,
+            "continent": "Africa",
+            "capital": "Mamoudzou",
+            "tzInCapital": "Indian/Mayotte",
+            "currency": "Euro",
+            "languageCodes": "fr-YT"
+        },
+        {
+            "country": "Reunion",
+            "ISO2": "RE",
+            "ISO3": "REU",
+            "topLevelDomain": "re",
+            "FIPS": "RE",
+            "E164": 262,
+            "phoneCode": 262,
+            "continent": "Africa",
+            "capital": "Saint-Denis",
+            "tzInCapital": "Indian/Reunion",
+            "currency": "Euro",
+            "languageCodes": "fr-RE"
+        }
+    ],
+    "263": [
+        {
+            "country": "Zimbabwe",
+            "ISO2": "ZW",
+            "ISO3": "ZWE",
+            "topLevelDomain": "zw",
+            "FIPS": "ZI",
+            "E164": 263,
+            "phoneCode": 263,
+            "continent": "Africa",
+            "capital": "Harare",
+            "tzInCapital": "Africa/Harare",
+            "currency": "Dollar",
+            "languageCodes": "en-ZW,sn,nr,nd"
+        }
+    ],
+    "264": [
+        {
+            "country": "Namibia",
+            "ISO2": "NA",
+            "ISO3": "NAM",
+            "topLevelDomain": "na",
+            "FIPS": "WA",
+            "E164": 264,
+            "phoneCode": 264,
+            "continent": "Africa",
+            "capital": "Windhoek",
+            "tzInCapital": "Africa/Windhoek",
+            "currency": "Dollar",
+            "languageCodes": "en-NA,af,de,hz,naq"
+        }
+    ],
+    "265": [
+        {
+            "country": "Malawi",
+            "ISO2": "MW",
+            "ISO3": "MWI",
+            "topLevelDomain": "mw",
+            "FIPS": "MI",
+            "E164": 265,
+            "phoneCode": 265,
+            "continent": "Africa",
+            "capital": "Lilongwe",
+            "tzInCapital": "Africa/Blantyre",
+            "currency": "Kwacha",
+            "languageCodes": "ny,yao,tum,swk"
+        }
+    ],
+    "266": [
+        {
+            "country": "Lesotho",
+            "ISO2": "LS",
+            "ISO3": "LSO",
+            "topLevelDomain": "ls",
+            "FIPS": "LT",
+            "E164": 266,
+            "phoneCode": 266,
+            "continent": "Africa",
+            "capital": "Maseru",
+            "tzInCapital": "Africa/Maseru",
+            "currency": "Loti",
+            "languageCodes": "en-LS,st,zu,xh"
+        }
+    ],
+    "267": [
+        {
+            "country": "Botswana",
+            "ISO2": "BW",
+            "ISO3": "BWA",
+            "topLevelDomain": "bw",
+            "FIPS": "BC",
+            "E164": 267,
+            "phoneCode": 267,
+            "continent": "Africa",
+            "capital": "Gaborone",
+            "tzInCapital": "Africa/Gaborone",
+            "currency": "Pula",
+            "languageCodes": "en-BW,tn-BW"
+        }
+    ],
+    "268": [
+        {
+            "country": "Swaziland",
+            "ISO2": "SZ",
+            "ISO3": "SWZ",
+            "topLevelDomain": "sz",
+            "FIPS": "WZ",
+            "E164": 268,
+            "phoneCode": 268,
+            "continent": "Africa",
+            "capital": "Mbabane",
+            "tzInCapital": "Africa/Mbabane",
+            "currency": "Lilangeni",
+            "languageCodes": "en-SZ,ss-SZ"
+        }
+    ],
+    "269": [
+        {
+            "country": "Comoros",
+            "ISO2": "KM",
+            "ISO3": "COM",
+            "topLevelDomain": "km",
+            "FIPS": "CN",
+            "E164": 269,
+            "phoneCode": 269,
+            "continent": "Africa",
+            "capital": "Moroni",
+            "tzInCapital": "Indian/Comoro",
+            "currency": "Franc",
+            "languageCodes": "ar,fr-KM"
+        }
+    ],
+    "290": [
+        {
+            "country": "Saint Helena",
+            "ISO2": "SH",
+            "ISO3": "SHN",
+            "topLevelDomain": "sh",
+            "FIPS": "SH",
+            "E164": 290,
+            "phoneCode": 290,
+            "continent": "Africa",
+            "capital": "Jamestown",
+            "tzInCapital": "Atlantic/St_Helena",
+            "currency": "Pound",
+            "languageCodes": "en-SH"
+        }
+    ],
+    "291": [
+        {
+            "country": "Eritrea",
+            "ISO2": "ER",
+            "ISO3": "ERI",
+            "topLevelDomain": "er",
+            "FIPS": "ER",
+            "E164": 291,
+            "phoneCode": 291,
+            "continent": "Africa",
+            "capital": "Asmara",
+            "tzInCapital": "Africa/Asmara",
+            "currency": "Nakfa",
+            "languageCodes": "aa-ER,ar,tig,kun,ti-ER"
+        }
+    ],
+    "297": [
+        {
+            "country": "Aruba",
+            "ISO2": "AW",
+            "ISO3": "ABW",
+            "topLevelDomain": "aw",
+            "FIPS": "AA",
+            "E164": 297,
+            "phoneCode": 297,
+            "continent": "North America",
+            "capital": "Oranjestad",
+            "tzInCapital": "America/Aruba",
+            "currency": "Guilder",
+            "languageCodes": "nl-AW,es,en"
+        }
+    ],
+    "298": [
+        {
+            "country": "Faroe Islands",
+            "ISO2": "FO",
+            "ISO3": "FRO",
+            "topLevelDomain": "fo",
+            "FIPS": "FO",
+            "E164": 298,
+            "phoneCode": 298,
+            "continent": "Europe",
+            "capital": "Torshavn",
+            "tzInCapital": "Atlantic/Faroe",
+            "currency": "Krone",
+            "languageCodes": "fo,da-FO"
+        }
+    ],
+    "299": [
+        {
+            "country": "Greenland",
+            "ISO2": "GL",
+            "ISO3": "GRL",
+            "topLevelDomain": "gl",
+            "FIPS": "GL",
+            "E164": 299,
+            "phoneCode": 299,
+            "continent": "North America",
+            "capital": "Nuuk",
+            "tzInCapital": "America/Godthab",
+            "currency": "Krone",
+            "languageCodes": "kl,da-GL,en"
+        }
+    ],
+    "350": [
+        {
+            "country": "Gibraltar",
+            "ISO2": "GI",
+            "ISO3": "GIB",
+            "topLevelDomain": "gi",
+            "FIPS": "GI",
+            "E164": 350,
+            "phoneCode": 350,
+            "continent": "Europe",
+            "capital": "Gibraltar",
+            "tzInCapital": "Europe/Gibraltar",
+            "currency": "Pound",
+            "languageCodes": "en-GI,es,it,pt"
+        }
+    ],
+    "351": [
+        {
+            "country": "Portugal",
+            "ISO2": "PT",
+            "ISO3": "PRT",
+            "topLevelDomain": "pt",
+            "FIPS": "PO",
+            "E164": 351,
+            "phoneCode": 351,
+            "continent": "Europe",
+            "capital": "Lisbon",
+            "tzInCapital": "Europe/Lisbon",
+            "currency": "Euro",
+            "languageCodes": "pt-PT,mwl"
+        }
+    ],
+    "352": [
+        {
+            "country": "Luxembourg",
+            "ISO2": "LU",
+            "ISO3": "LUX",
+            "topLevelDomain": "lu",
+            "FIPS": "LU",
+            "E164": 352,
+            "phoneCode": 352,
+            "continent": "Europe",
+            "capital": "Luxembourg",
+            "tzInCapital": "Europe/Luxembourg",
+            "currency": "Euro",
+            "languageCodes": "lb,de-LU,fr-LU"
+        }
+    ],
+    "353": [
+        {
+            "country": "Ireland",
+            "ISO2": "IE",
+            "ISO3": "IRL",
+            "topLevelDomain": "ie",
+            "FIPS": "EI",
+            "E164": 353,
+            "phoneCode": 353,
+            "continent": "Europe",
+            "capital": "Dublin",
+            "tzInCapital": "Europe/Dublin",
+            "currency": "Euro",
+            "languageCodes": "en-IE,ga-IE"
+        }
+    ],
+    "354": [
+        {
+            "country": "Iceland",
+            "ISO2": "IS",
+            "ISO3": "ISL",
+            "topLevelDomain": "is",
+            "FIPS": "IC",
+            "E164": 354,
+            "phoneCode": 354,
+            "continent": "Europe",
+            "capital": "Reykjavik",
+            "tzInCapital": "Atlantic/Reykjavik",
+            "currency": "Krona",
+            "languageCodes": "is,en,de,da,sv,no"
+        }
+    ],
+    "355": [
+        {
+            "country": "Albania",
+            "ISO2": "AL",
+            "ISO3": "ALB",
+            "topLevelDomain": "al",
+            "FIPS": "AL",
+            "E164": 355,
+            "phoneCode": 355,
+            "continent": "Europe",
+            "capital": "Tirana",
+            "tzInCapital": "Europe/Tirane",
+            "currency": "Lek",
+            "languageCodes": "sq,el"
+        }
+    ],
+    "356": [
+        {
+            "country": "Malta",
+            "ISO2": "MT",
+            "ISO3": "MLT",
+            "topLevelDomain": "mt",
+            "FIPS": "MT",
+            "E164": 356,
+            "phoneCode": 356,
+            "continent": "Europe",
+            "capital": "Valletta",
+            "tzInCapital": "Europe/Malta",
+            "currency": "Euro",
+            "languageCodes": "mt,en-MT"
+        }
+    ],
+    "357": [
+        {
+            "country": "Cyprus",
+            "ISO2": "CY",
+            "ISO3": "CYP",
+            "topLevelDomain": "cy",
+            "FIPS": "CY",
+            "E164": 357,
+            "phoneCode": 357,
+            "continent": "Europe",
+            "capital": "Nicosia",
+            "tzInCapital": "Asia/Nicosia",
+            "currency": "Euro",
+            "languageCodes": "el-CY,tr-CY,en"
+        }
+    ],
+    "358": [
+        {
+            "country": "Finland",
+            "ISO2": "FI",
+            "ISO3": "FIN",
+            "topLevelDomain": "fi",
+            "FIPS": "FI",
+            "E164": 358,
+            "phoneCode": 358,
+            "continent": "Europe",
+            "capital": "Helsinki",
+            "tzInCapital": "Europe/Helsinki",
+            "currency": "Euro",
+            "languageCodes": "fi-FI,sv-FI,smn"
+        }
+    ],
+    "359": [
+        {
+            "country": "Bulgaria",
+            "ISO2": "BG",
+            "ISO3": "BGR",
+            "topLevelDomain": "bg",
+            "FIPS": "BU",
+            "E164": 359,
+            "phoneCode": 359,
+            "continent": "Europe",
+            "capital": "Sofia",
+            "tzInCapital": "Europe/Sofia",
+            "currency": "Lev",
+            "languageCodes": "bg,tr-BG"
+        }
+    ],
+    "370": [
+        {
+            "country": "Lithuania",
+            "ISO2": "LT",
+            "ISO3": "LTU",
+            "topLevelDomain": "lt",
+            "FIPS": "LH",
+            "E164": 370,
+            "phoneCode": 370,
+            "continent": "Europe",
+            "capital": "Vilnius",
+            "tzInCapital": "Europe/Vilnius",
+            "currency": "Euro",
+            "languageCodes": "lt,ru,pl"
+        }
+    ],
+    "371": [
+        {
+            "country": "Latvia",
+            "ISO2": "LV",
+            "ISO3": "LVA",
+            "topLevelDomain": "lv",
+            "FIPS": "LG",
+            "E164": 371,
+            "phoneCode": 371,
+            "continent": "Europe",
+            "capital": "Riga",
+            "tzInCapital": "Europe/Riga",
+            "currency": "Euro",
+            "languageCodes": "lv,ru,lt"
+        }
+    ],
+    "372": [
+        {
+            "country": "Estonia",
+            "ISO2": "EE",
+            "ISO3": "EST",
+            "topLevelDomain": "ee",
+            "FIPS": "EN",
+            "E164": 372,
+            "phoneCode": 372,
+            "continent": "Europe",
+            "capital": "Tallinn",
+            "tzInCapital": "Europe/Tallinn",
+            "currency": "Euro",
+            "languageCodes": "et,ru"
+        }
+    ],
+    "373": [
+        {
+            "country": "Moldova",
+            "ISO2": "MD",
+            "ISO3": "MDA",
+            "topLevelDomain": "md",
+            "FIPS": "MD",
+            "E164": 373,
+            "phoneCode": 373,
+            "continent": "Europe",
+            "capital": "Chisinau",
+            "tzInCapital": "Europe/Chisinau",
+            "currency": "Leu",
+            "languageCodes": "ro,ru,gag,tr"
+        }
+    ],
+    "374": [
+        {
+            "country": "Armenia",
+            "ISO2": "AM",
+            "ISO3": "ARM",
+            "topLevelDomain": "am",
+            "FIPS": "AM",
+            "E164": 374,
+            "phoneCode": 374,
+            "continent": "Asia",
+            "capital": "Yerevan",
+            "tzInCapital": "Asia/Yerevan",
+            "currency": "Dram",
+            "languageCodes": "hy"
+        }
+    ],
+    "375": [
+        {
+            "country": "Belarus",
+            "ISO2": "BY",
+            "ISO3": "BLR",
+            "topLevelDomain": "by",
+            "FIPS": "BO",
+            "E164": 375,
+            "phoneCode": 375,
+            "continent": "Europe",
+            "capital": "Minsk",
+            "tzInCapital": "Europe/Minsk",
+            "currency": "Ruble",
+            "languageCodes": "be,ru"
+        }
+    ],
+    "376": [
+        {
+            "country": "Andorra",
+            "ISO2": "AD",
+            "ISO3": "AND",
+            "topLevelDomain": "ad",
+            "FIPS": "AN",
+            "E164": 376,
+            "phoneCode": 376,
+            "continent": "Europe",
+            "capital": "Andorra la Vella",
+            "tzInCapital": "Europe/Andorra",
+            "currency": "Euro",
+            "languageCodes": "ca"
+        }
+    ],
+    "377": [
+        {
+            "country": "Monaco",
+            "ISO2": "MC",
+            "ISO3": "MCO",
+            "topLevelDomain": "mc",
+            "FIPS": "MN",
+            "E164": 377,
+            "phoneCode": 377,
+            "continent": "Europe",
+            "capital": "Monaco",
+            "tzInCapital": "Europe/Monaco",
+            "currency": "Euro",
+            "languageCodes": "fr-MC,en,it"
+        }
+    ],
+    "378": [
+        {
+            "country": "San Marino",
+            "ISO2": "SM",
+            "ISO3": "SMR",
+            "topLevelDomain": "sm",
+            "FIPS": "SM",
+            "E164": 378,
+            "phoneCode": 378,
+            "continent": "Europe",
+            "capital": "San Marino",
+            "tzInCapital": "Europe/San_Marino",
+            "currency": "Euro",
+            "languageCodes": "it-SM"
+        }
+    ],
+    "379": [
+        {
+            "country": "Vatican",
+            "ISO2": "VA",
+            "ISO3": "VAT",
+            "topLevelDomain": "va",
+            "FIPS": "VT",
+            "E164": 39,
+            "phoneCode": 379,
+            "continent": "Europe",
+            "capital": "Vatican City",
+            "tzInCapital": "Europe/Vatican",
+            "currency": "Euro",
+            "languageCodes": "la,it,fr"
+        }
+    ],
+    "380": [
+        {
+            "country": "Ukraine",
+            "ISO2": "UA",
+            "ISO3": "UKR",
+            "topLevelDomain": "ua",
+            "FIPS": "UP",
+            "E164": 380,
+            "phoneCode": 380,
+            "continent": "Europe",
+            "capital": "Kiev",
+            "tzInCapital": "Europe/Kiev",
+            "currency": "Hryvnia",
+            "languageCodes": "uk,ru-UA,rom,pl,hu"
+        }
+    ],
+    "381": [
+        {
+            "country": "Serbia",
+            "ISO2": "RS",
+            "ISO3": "SRB",
+            "topLevelDomain": "rs",
+            "FIPS": "RI",
+            "E164": 381,
+            "phoneCode": 381,
+            "continent": "Europe",
+            "capital": "Belgrade",
+            "tzInCapital": "Europe/Belgrade",
+            "currency": "Dinar",
+            "languageCodes": "sr,hu,bs,rom"
+        }
+    ],
+    "382": [
+        {
+            "country": "Montenegro",
+            "ISO2": "ME",
+            "ISO3": "MNE",
+            "topLevelDomain": "me",
+            "FIPS": "MJ",
+            "E164": 382,
+            "phoneCode": 382,
+            "continent": "Europe",
+            "capital": "Podgorica",
+            "tzInCapital": "Europe/Podgorica",
+            "currency": "Euro",
+            "languageCodes": "sr,hu,bs,sq,hr,rom"
+        }
+    ],
+    "383": [
+        {
+            "country": "Kosovo",
+            "ISO2": "XK",
+            "ISO3": "XKX",
+            "topLevelDomain": "",
+            "FIPS": "KV",
+            "E164": 383,
+            "phoneCode": 383,
+            "continent": "Europe",
+            "capital": "Pristina",
+            "tzInCapital": "Europe/Podgorica",
+            "currency": "Euro",
+            "languageCodes": "sq,sr"
+        }
+    ],
+    "385": [
+        {
+            "country": "Croatia",
+            "ISO2": "HR",
+            "ISO3": "HRV",
+            "topLevelDomain": "hr",
+            "FIPS": "HR",
+            "E164": 385,
+            "phoneCode": 385,
+            "continent": "Europe",
+            "capital": "Zagreb",
+            "tzInCapital": "Europe/Zagreb",
+            "currency": "Kuna",
+            "languageCodes": "hr-HR,sr"
+        }
+    ],
+    "386": [
+        {
+            "country": "Slovenia",
+            "ISO2": "SI",
+            "ISO3": "SVN",
+            "topLevelDomain": "si",
+            "FIPS": "SI",
+            "E164": 386,
+            "phoneCode": 386,
+            "continent": "Europe",
+            "capital": "Ljubljana",
+            "tzInCapital": "Europe/Ljubljana",
+            "currency": "Euro",
+            "languageCodes": "sl,sh"
+        }
+    ],
+    "387": [
+        {
+            "country": "Bosnia and Herzegovina",
+            "ISO2": "BA",
+            "ISO3": "BIH",
+            "topLevelDomain": "ba",
+            "FIPS": "BK",
+            "E164": 387,
+            "phoneCode": 387,
+            "continent": "Europe",
+            "capital": "Sarajevo",
+            "tzInCapital": "Europe/Sarajevo",
+            "currency": "Marka",
+            "languageCodes": "bs,hr-BA,sr-BA"
+        }
+    ],
+    "389": [
+        {
+            "country": "Macedonia",
+            "ISO2": "MK",
+            "ISO3": "MKD",
+            "topLevelDomain": "mk",
+            "FIPS": "MK",
+            "E164": 389,
+            "phoneCode": 389,
+            "continent": "Europe",
+            "capital": "Skopje",
+            "tzInCapital": "Europe/Skopje",
+            "currency": "Denar",
+            "languageCodes": "mk,sq,tr,rmm,sr"
+        }
+    ],
+    "420": [
+        {
+            "country": "Czech Republic",
+            "ISO2": "CZ",
+            "ISO3": "CZE",
+            "topLevelDomain": "cz",
+            "FIPS": "EZ",
+            "E164": 420,
+            "phoneCode": 420,
+            "continent": "Europe",
+            "capital": "Prague",
+            "tzInCapital": "Europe/Prague",
+            "currency": "Koruna",
+            "languageCodes": "cs,sk"
+        }
+    ],
+    "421": [
+        {
+            "country": "Slovakia",
+            "ISO2": "SK",
+            "ISO3": "SVK",
+            "topLevelDomain": "sk",
+            "FIPS": "LO",
+            "E164": 421,
+            "phoneCode": 421,
+            "continent": "Europe",
+            "capital": "Bratislava",
+            "tzInCapital": "Europe/Bratislava",
+            "currency": "Euro",
+            "languageCodes": "sk,hu"
+        }
+    ],
+    "423": [
+        {
+            "country": "Liechtenstein",
+            "ISO2": "LI",
+            "ISO3": "LIE",
+            "topLevelDomain": "li",
+            "FIPS": "LS",
+            "E164": 423,
+            "phoneCode": 423,
+            "continent": "Europe",
+            "capital": "Vaduz",
+            "tzInCapital": "Europe/Vaduz",
+            "currency": "Franc",
+            "languageCodes": "de-LI"
+        }
+    ],
+    "500": [
+        {
+            "country": "Falkland Islands",
+            "ISO2": "FK",
+            "ISO3": "FLK",
+            "topLevelDomain": "fk",
+            "FIPS": "FK",
+            "E164": 500,
+            "phoneCode": 500,
+            "continent": "South America",
+            "capital": "Stanley",
+            "tzInCapital": "Atlantic/Stanley",
+            "currency": "Pound",
+            "languageCodes": "en-FK"
+        }
+    ],
+    "501": [
+        {
+            "country": "Belize",
+            "ISO2": "BZ",
+            "ISO3": "BLZ",
+            "topLevelDomain": "bz",
+            "FIPS": "BH",
+            "E164": 501,
+            "phoneCode": 501,
+            "continent": "North America",
+            "capital": "Belmopan",
+            "tzInCapital": "America/Belize",
+            "currency": "Dollar",
+            "languageCodes": "en-BZ,es"
+        }
+    ],
+    "502": [
+        {
+            "country": "Guatemala",
+            "ISO2": "GT",
+            "ISO3": "GTM",
+            "topLevelDomain": "gt",
+            "FIPS": "GT",
+            "E164": 502,
+            "phoneCode": 502,
+            "continent": "North America",
+            "capital": "Guatemala City",
+            "tzInCapital": "America/Guatemala",
+            "currency": "Quetzal",
+            "languageCodes": "es-GT"
+        }
+    ],
+    "503": [
+        {
+            "country": "El Salvador",
+            "ISO2": "SV",
+            "ISO3": "SLV",
+            "topLevelDomain": "sv",
+            "FIPS": "ES",
+            "E164": 503,
+            "phoneCode": 503,
+            "continent": "North America",
+            "capital": "San Salvador",
+            "tzInCapital": "America/El_Salvador",
+            "currency": "Dollar",
+            "languageCodes": "es-SV"
+        }
+    ],
+    "504": [
+        {
+            "country": "Honduras",
+            "ISO2": "HN",
+            "ISO3": "HND",
+            "topLevelDomain": "hn",
+            "FIPS": "HO",
+            "E164": 504,
+            "phoneCode": 504,
+            "continent": "North America",
+            "capital": "Tegucigalpa",
+            "tzInCapital": "America/Tegucigalpa",
+            "currency": "Lempira",
+            "languageCodes": "es-HN"
+        }
+    ],
+    "505": [
+        {
+            "country": "Nicaragua",
+            "ISO2": "NI",
+            "ISO3": "NIC",
+            "topLevelDomain": "ni",
+            "FIPS": "NU",
+            "E164": 505,
+            "phoneCode": 505,
+            "continent": "North America",
+            "capital": "Managua",
+            "tzInCapital": "America/Managua",
+            "currency": "Cordoba",
+            "languageCodes": "es-NI,en"
+        }
+    ],
+    "506": [
+        {
+            "country": "Costa Rica",
+            "ISO2": "CR",
+            "ISO3": "CRI",
+            "topLevelDomain": "cr",
+            "FIPS": "CS",
+            "E164": 506,
+            "phoneCode": 506,
+            "continent": "North America",
+            "capital": "San Jose",
+            "tzInCapital": "America/Costa_Rica",
+            "currency": "Colon",
+            "languageCodes": "es-CR,en"
+        }
+    ],
+    "507": [
+        {
+            "country": "Panama",
+            "ISO2": "PA",
+            "ISO3": "PAN",
+            "topLevelDomain": "pa",
+            "FIPS": "PM",
+            "E164": 507,
+            "phoneCode": 507,
+            "continent": "North America",
+            "capital": "Panama City",
+            "tzInCapital": "America/Panama",
+            "currency": "Balboa",
+            "languageCodes": "es-PA,en"
+        }
+    ],
+    "508": [
+        {
+            "country": "Saint Pierre and Miquelon",
+            "ISO2": "PM",
+            "ISO3": "SPM",
+            "topLevelDomain": "pm",
+            "FIPS": "SB",
+            "E164": 508,
+            "phoneCode": 508,
+            "continent": "North America",
+            "capital": "Saint-Pierre",
+            "tzInCapital": "America/Miquelon",
+            "currency": "Euro",
+            "languageCodes": "fr-PM"
+        }
+    ],
+    "509": [
+        {
+            "country": "Haiti",
+            "ISO2": "HT",
+            "ISO3": "HTI",
+            "topLevelDomain": "ht",
+            "FIPS": "HA",
+            "E164": 509,
+            "phoneCode": 509,
+            "continent": "North America",
+            "capital": "Port-au-Prince",
+            "tzInCapital": "America/Port-au-Prince",
+            "currency": "Gourde",
+            "languageCodes": "ht,fr-HT"
+        }
+    ],
+    "590": [
+        {
+            "country": "Saint Barthelemy",
+            "ISO2": "BL",
+            "ISO3": "BLM",
+            "topLevelDomain": "gp",
+            "FIPS": "TB",
+            "E164": 590,
+            "phoneCode": 590,
+            "continent": "North America",
+            "capital": "Gustavia",
+            "tzInCapital": "America/St_Barthelemy",
+            "currency": "Euro",
+            "languageCodes": "fr"
+        },
+        {
+            "country": "Saint Martin",
+            "ISO2": "MF",
+            "ISO3": "MAF",
+            "topLevelDomain": "gp",
+            "FIPS": "RN",
+            "E164": 1,
+            "phoneCode": 590,
+            "continent": "North America",
+            "capital": "Marigot",
+            "tzInCapital": "America/Marigot",
+            "currency": "Euro",
+            "languageCodes": "fr"
+        }
+    ],
+    "591": [
+        {
+            "country": "Bolivia",
+            "ISO2": "BO",
+            "ISO3": "BOL",
+            "topLevelDomain": "bo",
+            "FIPS": "BL",
+            "E164": 591,
+            "phoneCode": 591,
+            "continent": "South America",
+            "capital": "Sucre",
+            "tzInCapital": "America/La_Paz",
+            "currency": "Boliviano",
+            "languageCodes": "es-BO,qu,ay"
+        }
+    ],
+    "592": [
+        {
+            "country": "Guyana",
+            "ISO2": "GY",
+            "ISO3": "GUY",
+            "topLevelDomain": "gy",
+            "FIPS": "GY",
+            "E164": 592,
+            "phoneCode": 592,
+            "continent": "South America",
+            "capital": "Georgetown",
+            "tzInCapital": "America/Guyana",
+            "currency": "Dollar",
+            "languageCodes": "en-GY"
+        }
+    ],
+    "593": [
+        {
+            "country": "Ecuador",
+            "ISO2": "EC",
+            "ISO3": "ECU",
+            "topLevelDomain": "ec",
+            "FIPS": "EC",
+            "E164": 593,
+            "phoneCode": 593,
+            "continent": "South America",
+            "capital": "Quito",
+            "tzInCapital": "America/Guayaquil",
+            "currency": "Dollar",
+            "languageCodes": "es-EC"
+        }
+    ],
+    "595": [
+        {
+            "country": "Paraguay",
+            "ISO2": "PY",
+            "ISO3": "PRY",
+            "topLevelDomain": "py",
+            "FIPS": "PA",
+            "E164": 595,
+            "phoneCode": 595,
+            "continent": "South America",
+            "capital": "Asuncion",
+            "tzInCapital": "America/Asuncion",
+            "currency": "Guarani",
+            "languageCodes": "es-PY,gn"
+        }
+    ],
+    "597": [
+        {
+            "country": "Suriname",
+            "ISO2": "SR",
+            "ISO3": "SUR",
+            "topLevelDomain": "sr",
+            "FIPS": "NS",
+            "E164": 597,
+            "phoneCode": 597,
+            "continent": "South America",
+            "capital": "Paramaribo",
+            "tzInCapital": "America/Paramaribo",
+            "currency": "Dollar",
+            "languageCodes": "nl-SR,en,srn,hns,jv"
+        }
+    ],
+    "598": [
+        {
+            "country": "Uruguay",
+            "ISO2": "UY",
+            "ISO3": "URY",
+            "topLevelDomain": "uy",
+            "FIPS": "UY",
+            "E164": 598,
+            "phoneCode": 598,
+            "continent": "South America",
+            "capital": "Montevideo",
+            "tzInCapital": "America/Montevideo",
+            "currency": "Peso",
+            "languageCodes": "es-UY"
+        }
+    ],
+    "599": [
+        {
+            "country": "Curacao",
+            "ISO2": "CW",
+            "ISO3": "CUW",
+            "topLevelDomain": "cw",
+            "FIPS": "UC",
+            "E164": 599,
+            "phoneCode": 599,
+            "continent": "North America",
+            "capital": "Willemstad",
+            "tzInCapital": "America/Curacao",
+            "currency": "Guilder",
+            "languageCodes": "nl,pap"
+        },
+        {
+            "country": "Netherlands Antilles",
+            "ISO2": "AN",
+            "ISO3": "ANT",
+            "topLevelDomain": "an",
+            "FIPS": "NT",
+            "E164": 599,
+            "phoneCode": 599,
+            "continent": "North America",
+            "capital": "Willemstad",
+            "tzInCapital": "America/Curacao",
+            "currency": "Guilder",
+            "languageCodes": "nl-AN,en,es"
+        }
+    ],
+    "670": [
+        {
+            "country": "East Timor",
+            "ISO2": "TL",
+            "ISO3": "TLS",
+            "topLevelDomain": "tl",
+            "FIPS": "TT",
+            "E164": 670,
+            "phoneCode": 670,
+            "continent": "Oceania",
+            "capital": "Dili",
+            "tzInCapital": "Asia/Dili",
+            "currency": "Dollar",
+            "languageCodes": "tet,pt-TL,id,en"
+        }
+    ],
+    "672": [
+        {
+            "country": "Antarctica",
+            "ISO2": "AQ",
+            "ISO3": "ATA",
+            "topLevelDomain": "aq",
+            "FIPS": "AY",
+            "E164": 672,
+            "phoneCode": 672,
+            "continent": "Antarctica",
+            "capital": "",
+            "tzInCapital": "Antarctica/Troll",
+            "currency": "",
+            "languageCodes": ""
+        }
+    ],
+    "673": [
+        {
+            "country": "Brunei",
+            "ISO2": "BN",
+            "ISO3": "BRN",
+            "topLevelDomain": "bn",
+            "FIPS": "BX",
+            "E164": 673,
+            "phoneCode": 673,
+            "continent": "Asia",
+            "capital": "Bandar Seri Begawan",
+            "tzInCapital": "Asia/Brunei",
+            "currency": "Dollar",
+            "languageCodes": "ms-BN,en-BN"
+        }
+    ],
+    "674": [
+        {
+            "country": "Nauru",
+            "ISO2": "NR",
+            "ISO3": "NRU",
+            "topLevelDomain": "nr",
+            "FIPS": "NR",
+            "E164": 674,
+            "phoneCode": 674,
+            "continent": "Oceania",
+            "capital": "Yaren",
+            "tzInCapital": "Pacific/Nauru",
+            "currency": "Dollar",
+            "languageCodes": "na,en-NR"
+        }
+    ],
+    "675": [
+        {
+            "country": "Papua New Guinea",
+            "ISO2": "PG",
+            "ISO3": "PNG",
+            "topLevelDomain": "pg",
+            "FIPS": "PP",
+            "E164": 675,
+            "phoneCode": 675,
+            "continent": "Oceania",
+            "capital": "Port Moresby",
+            "tzInCapital": "Pacific/Port_Moresby",
+            "currency": "Kina",
+            "languageCodes": "en-PG,ho,meu,tpi"
+        }
+    ],
+    "676": [
+        {
+            "country": "Tonga",
+            "ISO2": "TO",
+            "ISO3": "TON",
+            "topLevelDomain": "to",
+            "FIPS": "TN",
+            "E164": 676,
+            "phoneCode": 676,
+            "continent": "Oceania",
+            "capital": "Nuku'alofa",
+            "tzInCapital": "Pacific/Tongatapu",
+            "currency": "Pa'anga",
+            "languageCodes": "to,en-TO"
+        }
+    ],
+    "677": [
+        {
+            "country": "Solomon Islands",
+            "ISO2": "SB",
+            "ISO3": "SLB",
+            "topLevelDomain": "sb",
+            "FIPS": "BP",
+            "E164": 677,
+            "phoneCode": 677,
+            "continent": "Oceania",
+            "capital": "Honiara",
+            "tzInCapital": "Pacific/Guadalcanal",
+            "currency": "Dollar",
+            "languageCodes": "en-SB,tpi"
+        }
+    ],
+    "678": [
+        {
+            "country": "Vanuatu",
+            "ISO2": "VU",
+            "ISO3": "VUT",
+            "topLevelDomain": "vu",
+            "FIPS": "NH",
+            "E164": 678,
+            "phoneCode": 678,
+            "continent": "Oceania",
+            "capital": "Port Vila",
+            "tzInCapital": "Pacific/Efate",
+            "currency": "Vatu",
+            "languageCodes": "bi,en-VU,fr-VU"
+        }
+    ],
+    "679": [
+        {
+            "country": "Fiji",
+            "ISO2": "FJ",
+            "ISO3": "FJI",
+            "topLevelDomain": "fj",
+            "FIPS": "FJ",
+            "E164": 679,
+            "phoneCode": 679,
+            "continent": "Oceania",
+            "capital": "Suva",
+            "tzInCapital": "Pacific/Fiji",
+            "currency": "Dollar",
+            "languageCodes": "en-FJ,fj"
+        }
+    ],
+    "680": [
+        {
+            "country": "Palau",
+            "ISO2": "PW",
+            "ISO3": "PLW",
+            "topLevelDomain": "pw",
+            "FIPS": "PS",
+            "E164": 680,
+            "phoneCode": 680,
+            "continent": "Oceania",
+            "capital": "Melekeok",
+            "tzInCapital": "Pacific/Palau",
+            "currency": "Dollar",
+            "languageCodes": "pau,sov,en-PW,tox,ja,fil,zh"
+        }
+    ],
+    "681": [
+        {
+            "country": "Wallis and Futuna",
+            "ISO2": "WF",
+            "ISO3": "WLF",
+            "topLevelDomain": "wf",
+            "FIPS": "WF",
+            "E164": 681,
+            "phoneCode": 681,
+            "continent": "Oceania",
+            "capital": "Mata Utu",
+            "tzInCapital": "Pacific/Wallis",
+            "currency": "Franc",
+            "languageCodes": "wls,fud,fr-WF"
+        }
+    ],
+    "682": [
+        {
+            "country": "Cook Islands",
+            "ISO2": "CK",
+            "ISO3": "COK",
+            "topLevelDomain": "ck",
+            "FIPS": "CW",
+            "E164": 682,
+            "phoneCode": 682,
+            "continent": "Oceania",
+            "capital": "Avarua",
+            "tzInCapital": "Pacific/Rarotonga",
+            "currency": "Dollar",
+            "languageCodes": "en-CK,mi"
+        }
+    ],
+    "683": [
+        {
+            "country": "Niue",
+            "ISO2": "NU",
+            "ISO3": "NIU",
+            "topLevelDomain": "nu",
+            "FIPS": "NE",
+            "E164": 683,
+            "phoneCode": 683,
+            "continent": "Oceania",
+            "capital": "Alofi",
+            "tzInCapital": "Pacific/Niue",
+            "currency": "Dollar",
+            "languageCodes": "niu,en-NU"
+        }
+    ],
+    "685": [
+        {
+            "country": "Samoa",
+            "ISO2": "WS",
+            "ISO3": "WSM",
+            "topLevelDomain": "ws",
+            "FIPS": "WS",
+            "E164": 685,
+            "phoneCode": 685,
+            "continent": "Oceania",
+            "capital": "Apia",
+            "tzInCapital": "Pacific/Apia",
+            "currency": "Tala",
+            "languageCodes": "sm,en-WS"
+        }
+    ],
+    "686": [
+        {
+            "country": "Kiribati",
+            "ISO2": "KI",
+            "ISO3": "KIR",
+            "topLevelDomain": "ki",
+            "FIPS": "KR",
+            "E164": 686,
+            "phoneCode": 686,
+            "continent": "Oceania",
+            "capital": "Tarawa",
+            "tzInCapital": "Pacific/Tarawa",
+            "currency": "Dollar",
+            "languageCodes": "en-KI,gil"
+        }
+    ],
+    "687": [
+        {
+            "country": "New Caledonia",
+            "ISO2": "NC",
+            "ISO3": "NCL",
+            "topLevelDomain": "nc",
+            "FIPS": "NC",
+            "E164": 687,
+            "phoneCode": 687,
+            "continent": "Oceania",
+            "capital": "Noumea",
+            "tzInCapital": "Pacific/Noumea",
+            "currency": "Franc",
+            "languageCodes": "fr-NC"
+        }
+    ],
+    "688": [
+        {
+            "country": "Tuvalu",
+            "ISO2": "TV",
+            "ISO3": "TUV",
+            "topLevelDomain": "tv",
+            "FIPS": "TV",
+            "E164": 688,
+            "phoneCode": 688,
+            "continent": "Oceania",
+            "capital": "Funafuti",
+            "tzInCapital": "Pacific/Funafuti",
+            "currency": "Dollar",
+            "languageCodes": "tvl,en,sm,gil"
+        }
+    ],
+    "689": [
+        {
+            "country": "French Polynesia",
+            "ISO2": "PF",
+            "ISO3": "PYF",
+            "topLevelDomain": "pf",
+            "FIPS": "FP",
+            "E164": 689,
+            "phoneCode": 689,
+            "continent": "Oceania",
+            "capital": "Papeete",
+            "tzInCapital": "Pacific/Tahiti",
+            "currency": "Franc",
+            "languageCodes": "fr-PF,ty"
+        }
+    ],
+    "690": [
+        {
+            "country": "Tokelau",
+            "ISO2": "TK",
+            "ISO3": "TKL",
+            "topLevelDomain": "tk",
+            "FIPS": "TL",
+            "E164": 690,
+            "phoneCode": 690,
+            "continent": "Oceania",
+            "capital": "",
+            "tzInCapital": "Pacific/Fakaofo",
+            "currency": "Dollar",
+            "languageCodes": "tkl,en-TK"
+        }
+    ],
+    "691": [
+        {
+            "country": "Micronesia",
+            "ISO2": "FM",
+            "ISO3": "FSM",
+            "topLevelDomain": "fm",
+            "FIPS": "FM",
+            "E164": 691,
+            "phoneCode": 691,
+            "continent": "Oceania",
+            "capital": "Palikir",
+            "tzInCapital": "Pacific/Pohnpei",
+            "currency": "Dollar",
+            "languageCodes": "en-FM,chk,pon,yap,kos,uli,woe,nkr,kpg"
+        }
+    ],
+    "692": [
+        {
+            "country": "Marshall Islands",
+            "ISO2": "MH",
+            "ISO3": "MHL",
+            "topLevelDomain": "mh",
+            "FIPS": "RM",
+            "E164": 692,
+            "phoneCode": 692,
+            "continent": "Oceania",
+            "capital": "Majuro",
+            "tzInCapital": "Pacific/Majuro",
+            "currency": "Dollar",
+            "languageCodes": "mh,en-MH"
+        }
+    ],
+    "850": [
+        {
+            "country": "North Korea",
+            "ISO2": "KP",
+            "ISO3": "PRK",
+            "topLevelDomain": "kp",
+            "FIPS": "KN",
+            "E164": 850,
+            "phoneCode": 850,
+            "continent": "Asia",
+            "capital": "Pyongyang",
+            "tzInCapital": "Asia/Pyongyang",
+            "currency": "Won",
+            "languageCodes": "ko-KP"
+        }
+    ],
+    "852": [
+        {
+            "country": "Hong Kong",
+            "ISO2": "HK",
+            "ISO3": "HKG",
+            "topLevelDomain": "hk",
+            "FIPS": "HK",
+            "E164": 852,
+            "phoneCode": 852,
+            "continent": "Asia",
+            "capital": "Hong Kong",
+            "tzInCapital": "Asia/Hong_Kong",
+            "currency": "Dollar",
+            "languageCodes": "zh-HK,yue,zh,en"
+        }
+    ],
+    "853": [
+        {
+            "country": "Macau",
+            "ISO2": "MO",
+            "ISO3": "MAC",
+            "topLevelDomain": "mo",
+            "FIPS": "MC",
+            "E164": 853,
+            "phoneCode": 853,
+            "continent": "Asia",
+            "capital": "Macao",
+            "tzInCapital": "Asia/Macau",
+            "currency": "Pataca",
+            "languageCodes": "zh,zh-MO,pt"
+        }
+    ],
+    "855": [
+        {
+            "country": "Cambodia",
+            "ISO2": "KH",
+            "ISO3": "KHM",
+            "topLevelDomain": "kh",
+            "FIPS": "CB",
+            "E164": 855,
+            "phoneCode": 855,
+            "continent": "Asia",
+            "capital": "Phnom Penh",
+            "tzInCapital": "Asia/Phnom_Penh",
+            "currency": "Riels",
+            "languageCodes": "km,fr,en"
+        }
+    ],
+    "856": [
+        {
+            "country": "Laos",
+            "ISO2": "LA",
+            "ISO3": "LAO",
+            "topLevelDomain": "la",
+            "FIPS": "LA",
+            "E164": 856,
+            "phoneCode": 856,
+            "continent": "Asia",
+            "capital": "Vientiane",
+            "tzInCapital": "Asia/Vientiane",
+            "currency": "Kip",
+            "languageCodes": "lo,fr,en"
+        }
+    ],
+    "880": [
+        {
+            "country": "Bangladesh",
+            "ISO2": "BD",
+            "ISO3": "BGD",
+            "topLevelDomain": "bd",
+            "FIPS": "BG",
+            "E164": 880,
+            "phoneCode": 880,
+            "continent": "Asia",
+            "capital": "Dhaka",
+            "tzInCapital": "Asia/Dhaka",
+            "currency": "Taka",
+            "languageCodes": "bn-BD,en"
+        }
+    ],
+    "886": [
+        {
+            "country": "Taiwan",
+            "ISO2": "TW",
+            "ISO3": "TWN",
+            "topLevelDomain": "tw",
+            "FIPS": "TW",
+            "E164": 886,
+            "phoneCode": 886,
+            "continent": "Asia",
+            "capital": "Taipei",
+            "tzInCapital": "Asia/Taipei",
+            "currency": "Dollar",
+            "languageCodes": "zh-TW,zh,nan,hak"
+        }
+    ],
+    "960": [
+        {
+            "country": "Maldives",
+            "ISO2": "MV",
+            "ISO3": "MDV",
+            "topLevelDomain": "mv",
+            "FIPS": "MV",
+            "E164": 960,
+            "phoneCode": 960,
+            "continent": "Asia",
+            "capital": "Male",
+            "tzInCapital": "Indian/Maldives",
+            "currency": "Rufiyaa",
+            "languageCodes": "dv,en"
+        }
+    ],
+    "961": [
+        {
+            "country": "Lebanon",
+            "ISO2": "LB",
+            "ISO3": "LBN",
+            "topLevelDomain": "lb",
+            "FIPS": "LE",
+            "E164": 961,
+            "phoneCode": 961,
+            "continent": "Asia",
+            "capital": "Beirut",
+            "tzInCapital": "Asia/Beirut",
+            "currency": "Pound",
+            "languageCodes": "ar-LB,fr-LB,en,hy"
+        }
+    ],
+    "962": [
+        {
+            "country": "Jordan",
+            "ISO2": "JO",
+            "ISO3": "JOR",
+            "topLevelDomain": "jo",
+            "FIPS": "JO",
+            "E164": 962,
+            "phoneCode": 962,
+            "continent": "Asia",
+            "capital": "Amman",
+            "tzInCapital": "Asia/Amman",
+            "currency": "Dinar",
+            "languageCodes": "ar-JO,en"
+        }
+    ],
+    "963": [
+        {
+            "country": "Syria",
+            "ISO2": "SY",
+            "ISO3": "SYR",
+            "topLevelDomain": "sy",
+            "FIPS": "SY",
+            "E164": 963,
+            "phoneCode": 963,
+            "continent": "Asia",
+            "capital": "Damascus",
+            "tzInCapital": "Asia/Damascus",
+            "currency": "Pound",
+            "languageCodes": "ar-SY,ku,hy,arc,fr,en"
+        }
+    ],
+    "964": [
+        {
+            "country": "Iraq",
+            "ISO2": "IQ",
+            "ISO3": "IRQ",
+            "topLevelDomain": "iq",
+            "FIPS": "IZ",
+            "E164": 964,
+            "phoneCode": 964,
+            "continent": "Asia",
+            "capital": "Baghdad",
+            "tzInCapital": "Asia/Baghdad",
+            "currency": "Dinar",
+            "languageCodes": "ar-IQ,ku,hy"
+        }
+    ],
+    "965": [
+        {
+            "country": "Kuwait",
+            "ISO2": "KW",
+            "ISO3": "KWT",
+            "topLevelDomain": "kw",
+            "FIPS": "KU",
+            "E164": 965,
+            "phoneCode": 965,
+            "continent": "Asia",
+            "capital": "Kuwait City",
+            "tzInCapital": "Asia/Kuwait",
+            "currency": "Dinar",
+            "languageCodes": "ar-KW,en"
+        }
+    ],
+    "966": [
+        {
+            "country": "Saudi Arabia",
+            "ISO2": "SA",
+            "ISO3": "SAU",
+            "topLevelDomain": "sa",
+            "FIPS": "SA",
+            "E164": 966,
+            "phoneCode": 966,
+            "continent": "Asia",
+            "capital": "Riyadh",
+            "tzInCapital": "Asia/Riyadh",
+            "currency": "Rial",
+            "languageCodes": "ar-SA"
+        }
+    ],
+    "967": [
+        {
+            "country": "Yemen",
+            "ISO2": "YE",
+            "ISO3": "YEM",
+            "topLevelDomain": "ye",
+            "FIPS": "YM",
+            "E164": 967,
+            "phoneCode": 967,
+            "continent": "Asia",
+            "capital": "Sanaa",
+            "tzInCapital": "Asia/Aden",
+            "currency": "Rial",
+            "languageCodes": "ar-YE"
+        }
+    ],
+    "968": [
+        {
+            "country": "Oman",
+            "ISO2": "OM",
+            "ISO3": "OMN",
+            "topLevelDomain": "om",
+            "FIPS": "MU",
+            "E164": 968,
+            "phoneCode": 968,
+            "continent": "Asia",
+            "capital": "Muscat",
+            "tzInCapital": "Asia/Muscat",
+            "currency": "Rial",
+            "languageCodes": "ar-OM,en,bal,ur"
+        }
+    ],
+    "970": [
+        {
+            "country": "Palestine",
+            "ISO2": "PS",
+            "ISO3": "PSE",
+            "topLevelDomain": "ps",
+            "FIPS": "WE",
+            "E164": 970,
+            "phoneCode": 970,
+            "continent": "Asia",
+            "capital": "East Jerusalem",
+            "tzInCapital": "Asia/Hebron",
+            "currency": "Shekel",
+            "languageCodes": "ar-PS"
+        }
+    ],
+    "971": [
+        {
+            "country": "United Arab Emirates",
+            "ISO2": "AE",
+            "ISO3": "ARE",
+            "topLevelDomain": "ae",
+            "FIPS": "AE",
+            "E164": 971,
+            "phoneCode": 971,
+            "continent": "Asia",
+            "capital": "Abu Dhabi",
+            "tzInCapital": "Asia/Dubai",
+            "currency": "Dirham",
+            "languageCodes": "ar-AE,fa,en,hi,ur"
+        }
+    ],
+    "972": [
+        {
+            "country": "Israel",
+            "ISO2": "IL",
+            "ISO3": "ISR",
+            "topLevelDomain": "il",
+            "FIPS": "IS",
+            "E164": 972,
+            "phoneCode": 972,
+            "continent": "Asia",
+            "capital": "Jerusalem",
+            "tzInCapital": "Asia/Jerusalem",
+            "currency": "Shekel",
+            "languageCodes": "he,ar-IL,en-IL,"
+        }
+    ],
+    "973": [
+        {
+            "country": "Bahrain",
+            "ISO2": "BH",
+            "ISO3": "BHR",
+            "topLevelDomain": "bh",
+            "FIPS": "BA",
+            "E164": 973,
+            "phoneCode": 973,
+            "continent": "Asia",
+            "capital": "Manama",
+            "tzInCapital": "Asia/Bahrain",
+            "currency": "Dinar",
+            "languageCodes": "ar-BH,en,fa,ur"
+        }
+    ],
+    "974": [
+        {
+            "country": "Qatar",
+            "ISO2": "QA",
+            "ISO3": "QAT",
+            "topLevelDomain": "qa",
+            "FIPS": "QA",
+            "E164": 974,
+            "phoneCode": 974,
+            "continent": "Asia",
+            "capital": "Doha",
+            "tzInCapital": "Asia/Qatar",
+            "currency": "Rial",
+            "languageCodes": "ar-QA,es"
+        }
+    ],
+    "975": [
+        {
+            "country": "Bhutan",
+            "ISO2": "BT",
+            "ISO3": "BTN",
+            "topLevelDomain": "bt",
+            "FIPS": "BT",
+            "E164": 975,
+            "phoneCode": 975,
+            "continent": "Asia",
+            "capital": "Thimphu",
+            "tzInCapital": "Asia/Thimphu",
+            "currency": "Ngultrum",
+            "languageCodes": "dz"
+        }
+    ],
+    "976": [
+        {
+            "country": "Mongolia",
+            "ISO2": "MN",
+            "ISO3": "MNG",
+            "topLevelDomain": "mn",
+            "FIPS": "MG",
+            "E164": 976,
+            "phoneCode": 976,
+            "continent": "Asia",
+            "capital": "Ulan Bator",
+            "tzInCapital": "Asia/Ulaanbaatar",
+            "currency": "Tugrik",
+            "languageCodes": "mn,ru"
+        }
+    ],
+    "977": [
+        {
+            "country": "Nepal",
+            "ISO2": "NP",
+            "ISO3": "NPL",
+            "topLevelDomain": "np",
+            "FIPS": "NP",
+            "E164": 977,
+            "phoneCode": 977,
+            "continent": "Asia",
+            "capital": "Kathmandu",
+            "tzInCapital": "Asia/Kathmandu",
+            "currency": "Rupee",
+            "languageCodes": "ne,en"
+        }
+    ],
+    "992": [
+        {
+            "country": "Tajikistan",
+            "ISO2": "TJ",
+            "ISO3": "TJK",
+            "topLevelDomain": "tj",
+            "FIPS": "TI",
+            "E164": 992,
+            "phoneCode": 992,
+            "continent": "Asia",
+            "capital": "Dushanbe",
+            "tzInCapital": "Asia/Dushanbe",
+            "currency": "Somoni",
+            "languageCodes": "tg,ru"
+        }
+    ],
+    "993": [
+        {
+            "country": "Turkmenistan",
+            "ISO2": "TM",
+            "ISO3": "TKM",
+            "topLevelDomain": "tm",
+            "FIPS": "TX",
+            "E164": 993,
+            "phoneCode": 993,
+            "continent": "Asia",
+            "capital": "Ashgabat",
+            "tzInCapital": "Asia/Ashgabat",
+            "currency": "Manat",
+            "languageCodes": "tk,ru,uz"
+        }
+    ],
+    "994": [
+        {
+            "country": "Azerbaijan",
+            "ISO2": "AZ",
+            "ISO3": "AZE",
+            "topLevelDomain": "az",
+            "FIPS": "AJ",
+            "E164": 994,
+            "phoneCode": 994,
+            "continent": "Asia",
+            "capital": "Baku",
+            "tzInCapital": "Asia/Baku",
+            "currency": "Manat",
+            "languageCodes": "az,ru,hy"
+        }
+    ],
+    "995": [
+        {
+            "country": "Georgia",
+            "ISO2": "GE",
+            "ISO3": "GEO",
+            "topLevelDomain": "ge",
+            "FIPS": "GG",
+            "E164": 995,
+            "phoneCode": 995,
+            "continent": "Asia",
+            "capital": "Tbilisi",
+            "tzInCapital": "Asia/Tbilisi",
+            "currency": "Lari",
+            "languageCodes": "ka,ru,hy,az"
+        }
+    ],
+    "996": [
+        {
+            "country": "Kyrgyzstan",
+            "ISO2": "KG",
+            "ISO3": "KGZ",
+            "topLevelDomain": "kg",
+            "FIPS": "KG",
+            "E164": 996,
+            "phoneCode": 996,
+            "continent": "Asia",
+            "capital": "Bishkek",
+            "tzInCapital": "Asia/Bishkek",
+            "currency": "Som",
+            "languageCodes": "ky,uz,ru"
+        }
+    ],
+    "998": [
+        {
+            "country": "Uzbekistan",
+            "ISO2": "UZ",
+            "ISO3": "UZB",
+            "topLevelDomain": "uz",
+            "FIPS": "UZ",
+            "E164": 998,
+            "phoneCode": 998,
+            "continent": "Asia",
+            "capital": "Tashkent",
+            "tzInCapital": "Asia/Tashkent",
+            "currency": "Som",
+            "languageCodes": "uz,ru,tg"
+        }
+    ],
+    "1-684": [
+        {
+            "country": "American Samoa",
+            "ISO2": "AS",
+            "ISO3": "ASM",
+            "topLevelDomain": "as",
+            "FIPS": "AQ",
+            "E164": 1,
+            "phoneCode": "1-684",
+            "continent": "Oceania",
+            "capital": "Pago Pago",
+            "tzInCapital": "Pacific/Pago_Pago",
+            "currency": "Dollar",
+            "languageCodes": "en-AS,sm,to"
+        }
+    ],
+    "1-264": [
+        {
+            "country": "Anguilla",
+            "ISO2": "AI",
+            "ISO3": "AIA",
+            "topLevelDomain": "ai",
+            "FIPS": "AV",
+            "E164": 1,
+            "phoneCode": "1-264",
+            "continent": "North America",
+            "capital": "The Valley",
+            "tzInCapital": "America/Anguilla",
+            "currency": "Dollar",
+            "languageCodes": "en-AI"
+        }
+    ],
+    "1-268": [
+        {
+            "country": "Antigua and Barbuda",
+            "ISO2": "AG",
+            "ISO3": "ATG",
+            "topLevelDomain": "ag",
+            "FIPS": "AC",
+            "E164": 1,
+            "phoneCode": "1-268",
+            "continent": "North America",
+            "capital": "St. John's",
+            "tzInCapital": "America/Antigua",
+            "currency": "Dollar",
+            "languageCodes": "en-AG"
+        }
+    ],
+    "1-242": [
+        {
+            "country": "Bahamas",
+            "ISO2": "BS",
+            "ISO3": "BHS",
+            "topLevelDomain": "bs",
+            "FIPS": "BF",
+            "E164": 1,
+            "phoneCode": "1-242",
+            "continent": "North America",
+            "capital": "Nassau",
+            "tzInCapital": "America/Nassau",
+            "currency": "Dollar",
+            "languageCodes": "en-BS"
+        }
+    ],
+    "1-246": [
+        {
+            "country": "Barbados",
+            "ISO2": "BB",
+            "ISO3": "BRB",
+            "topLevelDomain": "bb",
+            "FIPS": "BB",
+            "E164": 1,
+            "phoneCode": "1-246",
+            "continent": "North America",
+            "capital": "Bridgetown",
+            "tzInCapital": "America/Barbados",
+            "currency": "Dollar",
+            "languageCodes": "en-BB"
+        }
+    ],
+    "1-441": [
+        {
+            "country": "Bermuda",
+            "ISO2": "BM",
+            "ISO3": "BMU",
+            "topLevelDomain": "bm",
+            "FIPS": "BD",
+            "E164": 1,
+            "phoneCode": "1-441",
+            "continent": "North America",
+            "capital": "Hamilton",
+            "tzInCapital": "Atlantic/Bermuda",
+            "currency": "Dollar",
+            "languageCodes": "en-BM,pt"
+        }
+    ],
+    "1-284": [
+        {
+            "country": "British Virgin Islands",
+            "ISO2": "VG",
+            "ISO3": "VGB",
+            "topLevelDomain": "vg",
+            "FIPS": "VI",
+            "E164": 1,
+            "phoneCode": "1-284",
+            "continent": "North America",
+            "capital": "Road Town",
+            "tzInCapital": "America/Tortola",
+            "currency": "Dollar",
+            "languageCodes": "en-VG"
+        }
+    ],
+    "1-345": [
+        {
+            "country": "Cayman Islands",
+            "ISO2": "KY",
+            "ISO3": "CYM",
+            "topLevelDomain": "ky",
+            "FIPS": "CJ",
+            "E164": 1,
+            "phoneCode": "1-345",
+            "continent": "North America",
+            "capital": "George Town",
+            "tzInCapital": "America/Cayman",
+            "currency": "Dollar",
+            "languageCodes": "en-KY"
+        }
+    ],
+    "1-767": [
+        {
+            "country": "Dominica",
+            "ISO2": "DM",
+            "ISO3": "DMA",
+            "topLevelDomain": "dm",
+            "FIPS": "DO",
+            "E164": 1,
+            "phoneCode": "1-767",
+            "continent": "North America",
+            "capital": "Roseau",
+            "tzInCapital": "America/Dominica",
+            "currency": "Dollar",
+            "languageCodes": "en-DM"
+        }
+    ],
+    "1-809, 1-829, 1-849": [
+        {
+            "country": "Dominican Republic",
+            "ISO2": "DO",
+            "ISO3": "DOM",
+            "topLevelDomain": "do",
+            "FIPS": "DR",
+            "E164": 1,
+            "phoneCode": "1-809, 1-829, 1-849",
+            "continent": "North America",
+            "capital": "Santo Domingo",
+            "tzInCapital": "America/Santo_Domingo",
+            "currency": "Peso",
+            "languageCodes": "es-DO"
+        }
+    ],
+    "1-473": [
+        {
+            "country": "Grenada",
+            "ISO2": "GD",
+            "ISO3": "GRD",
+            "topLevelDomain": "gd",
+            "FIPS": "GJ",
+            "E164": 1,
+            "phoneCode": "1-473",
+            "continent": "North America",
+            "capital": "St. George's",
+            "tzInCapital": "America/Grenada",
+            "currency": "Dollar",
+            "languageCodes": "en-GD"
+        }
+    ],
+    "1-671": [
+        {
+            "country": "Guam",
+            "ISO2": "GU",
+            "ISO3": "GUM",
+            "topLevelDomain": "gu",
+            "FIPS": "GQ",
+            "E164": 1,
+            "phoneCode": "1-671",
+            "continent": "Oceania",
+            "capital": "Hagatna",
+            "tzInCapital": "Pacific/Guam",
+            "currency": "Dollar",
+            "languageCodes": "en-GU,ch-GU"
+        }
+    ],
+    "44-1481": [
+        {
+            "country": "Guernsey",
+            "ISO2": "GG",
+            "ISO3": "GGY",
+            "topLevelDomain": "gg",
+            "FIPS": "GK",
+            "E164": 44,
+            "phoneCode": "44-1481",
+            "continent": "Europe",
+            "capital": "St Peter Port",
+            "tzInCapital": "Europe/Guernsey",
+            "currency": "Pound",
+            "languageCodes": "en,fr"
+        }
+    ],
+    "44-1624": [
+        {
+            "country": "Isle of Man",
+            "ISO2": "IM",
+            "ISO3": "IMN",
+            "topLevelDomain": "im",
+            "FIPS": "IM",
+            "E164": 44,
+            "phoneCode": "44-1624",
+            "continent": "Europe",
+            "capital": "Douglas, Isle of Man",
+            "tzInCapital": "Europe/Isle_of_Man",
+            "currency": "Pound",
+            "languageCodes": "en,gv"
+        }
+    ],
+    "1-876": [
+        {
+            "country": "Jamaica",
+            "ISO2": "JM",
+            "ISO3": "JAM",
+            "topLevelDomain": "jm",
+            "FIPS": "JM",
+            "E164": 1,
+            "phoneCode": "1-876",
+            "continent": "North America",
+            "capital": "Kingston",
+            "tzInCapital": "America/Jamaica",
+            "currency": "Dollar",
+            "languageCodes": "en-JM"
+        }
+    ],
+    "44-1534": [
+        {
+            "country": "Jersey",
+            "ISO2": "JE",
+            "ISO3": "JEY",
+            "topLevelDomain": "je",
+            "FIPS": "JE",
+            "E164": 44,
+            "phoneCode": "44-1534",
+            "continent": "Europe",
+            "capital": "Saint Helier",
+            "tzInCapital": "Europe/Jersey",
+            "currency": "Pound",
+            "languageCodes": "en,pt"
+        }
+    ],
+    "1-664": [
+        {
+            "country": "Montserrat",
+            "ISO2": "MS",
+            "ISO3": "MSR",
+            "topLevelDomain": "ms",
+            "FIPS": "MH",
+            "E164": 1,
+            "phoneCode": "1-664",
+            "continent": "North America",
+            "capital": "Plymouth",
+            "tzInCapital": "America/Montserrat",
+            "currency": "Dollar",
+            "languageCodes": "en-MS"
+        }
+    ],
+    "1-670": [
+        {
+            "country": "Northern Mariana Islands",
+            "ISO2": "MP",
+            "ISO3": "MNP",
+            "topLevelDomain": "mp",
+            "FIPS": "CQ",
+            "E164": 1,
+            "phoneCode": "1-670",
+            "continent": "Oceania",
+            "capital": "Saipan",
+            "tzInCapital": "Pacific/Saipan",
+            "currency": "Dollar",
+            "languageCodes": "fil,tl,zh,ch-MP,en-MP"
+        }
+    ],
+    "1-787, 1-939": [
+        {
+            "country": "Puerto Rico",
+            "ISO2": "PR",
+            "ISO3": "PRI",
+            "topLevelDomain": "pr",
+            "FIPS": "RQ",
+            "E164": 1,
+            "phoneCode": "1-787, 1-939",
+            "continent": "North America",
+            "capital": "San Juan",
+            "tzInCapital": "America/Puerto_Rico",
+            "currency": "Dollar",
+            "languageCodes": "en-PR,es-PR"
+        }
+    ],
+    "1-869": [
+        {
+            "country": "Saint Kitts and Nevis",
+            "ISO2": "KN",
+            "ISO3": "KNA",
+            "topLevelDomain": "kn",
+            "FIPS": "SC",
+            "E164": 1,
+            "phoneCode": "1-869",
+            "continent": "North America",
+            "capital": "Basseterre",
+            "tzInCapital": "America/St_Kitts",
+            "currency": "Dollar",
+            "languageCodes": "en-KN"
+        }
+    ],
+    "1-758": [
+        {
+            "country": "Saint Lucia",
+            "ISO2": "LC",
+            "ISO3": "LCA",
+            "topLevelDomain": "lc",
+            "FIPS": "ST",
+            "E164": 1,
+            "phoneCode": "1-758",
+            "continent": "North America",
+            "capital": "Castries",
+            "tzInCapital": "America/St_Lucia",
+            "currency": "Dollar",
+            "languageCodes": "en-LC"
+        }
+    ],
+    "1-784": [
+        {
+            "country": "Saint Vincent and the Grenadines",
+            "ISO2": "VC",
+            "ISO3": "VCT",
+            "topLevelDomain": "vc",
+            "FIPS": "VC",
+            "E164": 1,
+            "phoneCode": "1-784",
+            "continent": "North America",
+            "capital": "Kingstown",
+            "tzInCapital": "America/St_Vincent",
+            "currency": "Dollar",
+            "languageCodes": "en-VC,fr"
+        }
+    ],
+    "1-721": [
+        {
+            "country": "Sint Maarten",
+            "ISO2": "SX",
+            "ISO3": "SXM",
+            "topLevelDomain": "sx",
+            "FIPS": "NN",
+            "E164": 1,
+            "phoneCode": "1-721",
+            "continent": "North America",
+            "capital": "Philipsburg",
+            "tzInCapital": "America/Lower_Princes",
+            "currency": "Guilder",
+            "languageCodes": "nl,en"
+        }
+    ],
+    "1-868": [
+        {
+            "country": "Trinidad and Tobago",
+            "ISO2": "TT",
+            "ISO3": "TTO",
+            "topLevelDomain": "tt",
+            "FIPS": "TD",
+            "E164": 1,
+            "phoneCode": "1-868",
+            "continent": "North America",
+            "capital": "Port of Spain",
+            "tzInCapital": "America/Port_of_Spain",
+            "currency": "Dollar",
+            "languageCodes": "en-TT,hns,fr,es,zh"
+        }
+    ],
+    "1-649": [
+        {
+            "country": "Turks and Caicos Islands",
+            "ISO2": "TC",
+            "ISO3": "TCA",
+            "topLevelDomain": "tc",
+            "FIPS": "TK",
+            "E164": 1,
+            "phoneCode": "1-649",
+            "continent": "North America",
+            "capital": "Cockburn Town",
+            "tzInCapital": "America/Grand_Turk",
+            "currency": "Dollar",
+            "languageCodes": "en-TC"
+        }
+    ],
+    "1-340": [
+        {
+            "country": "U.S. Virgin Islands",
+            "ISO2": "VI",
+            "ISO3": "VIR",
+            "topLevelDomain": "vi",
+            "FIPS": "VQ",
+            "E164": 1,
+            "phoneCode": "1-340",
+            "continent": "North America",
+            "capital": "Charlotte Amalie",
+            "tzInCapital": "America/St_Thomas",
+            "currency": "Dollar",
+            "languageCodes": "en-VI"
+        }
+    ]
+}
