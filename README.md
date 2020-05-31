@@ -6,27 +6,27 @@
 Install **phone number local time** dependency in your existing project by executing below command.
 
 ```sh
-$ npm i phone-number-local-time
+$ npm i phonenumber-now
 ```
 
 then include in your required file by below command
 
 ```javascript
-const {PhoneTime} = require("phone-time");
+var phoneNumberNow = require("phonenumber-now"); 
 
-const details = new PhoneTime().getData("+12126712234");
-
-// You can provide with space
-const details = new PhoneTime().getData("+1 2126712234");
+const details = phoneNumberNow("+12126712234");
 
 // You can provide with space
-const details = new PhoneTime().getData("+1-2126712234");
+const details = phoneNumberNow("+1 2126712234");
+
+// You can provide with space
+const details = phoneNumberNow("+1-2126712234");
 
 // You can provide with hypen
-const details = new PhoneTime().getData("+1-2126712234");
+const details = phoneNumberNow("+1-2126712234");
 
 //You can provide with brackets
-const details = new PhoneTime().getData("+1 (212) 6712234");
+const details = phoneNumberNow("+1 (212) 6712234");
 ```
 
 You will get array of object like below,
