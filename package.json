@@ -1,12 +1,12 @@
 {
-  "name": "phone-number-local-time",
-  "version": "1.0.0",
+  "name": "phonenumber-now",
+  "version": "1.0.1",
   "description": "Get the local time of given mobile number",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Kumaravel Palanisamy <kumar.okm1995@gmail.com> (https://kumaravel.me)",
+  "author": "Kumaravel Palanisamy <phonenumber.now.kumaravel@gmail.com> (https://kumaravel.me)",
   "keywords": [
     "phone",
     "phone-number",
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/kumaravel95/phone-number-local-time.git"
+    "url" : "https://github.com/kumaravel95/phonenumber-now"
   },
   "license": "MIT",
   "dependencies": {
