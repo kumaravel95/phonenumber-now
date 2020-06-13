@@ -1,6 +1,6 @@
 {
   "name": "phonenumber-now",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Get the local time of given mobile number",
   "main": "index.js",
   "scripts": {
