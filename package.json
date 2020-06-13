@@ -1,6 +1,6 @@
 {
   "name": "phone-number-local-time",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Get the local time of given mobile number",
   "main": "index.js",
   "scripts": {
@@ -8,13 +8,6 @@
   },
   "author": "Kumaravel Palanisamy <kumar.okm1995@gmail.com> (https://kumaravel.me)",
   "keywords": [
-    "phone",
-    "phone-number",
-    "country",
-    "timezone",
-    "local-time-zone",
-    "time difference",
-    "moment"
   ],
   "license": "MIT",
   "dependencies": {
